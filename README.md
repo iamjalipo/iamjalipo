@@ -19,9 +19,14 @@
 
 
 <br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamjalipo)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
+
+<details>
+  <summary>:zap: Languages</summary>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamjalipo)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
