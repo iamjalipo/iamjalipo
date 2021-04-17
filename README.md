@@ -17,7 +17,7 @@
 <br />
 <br/>
 
-<img src="https://media.giphy.com/media/26BRxIdjE82KNmVJm/giphy.gif" width="30"> Latest Tweets
+<img src="https://media.giphy.com/media/26BRxIdjE82KNmVJm/giphy.gif" width="30"> ##Latest Tweets
 
 <!-- TWITTER:START -->
 - [@mraginsky: RT like there's no tomorrow!Illinois Institute for Data Science and Dynamical Systems @CSL_Illinois is hosting a virtual Mini-Workshop on Asymptotics and Non-Asymptotics in Control and Reinforcement Learning featuring tutorial talks by @spmeyn and @HazanPrinceton and a panel.](https://twitter.com/mraginsky/status/1380556150739992581)
