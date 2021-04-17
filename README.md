@@ -21,12 +21,7 @@
 
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.iamjalipo.vercel.app/api?username=iamjalipo&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://sites.google.com/view/mjalal-pouromid
 [twitter]: https://twitter.com/JalalPouromid
