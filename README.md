@@ -2,7 +2,7 @@
 
 ## I'm a RL enthusiast
 
-- I’m currently learning everything about RL 🤖
+- I’m currently learning everything about RL 🤖 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 2020 Goals: Contribute more to Open Source projects
 - Fun fact: I love to invent
 - Long-term Goal: Become a master in RL
