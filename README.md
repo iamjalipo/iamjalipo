@@ -2,8 +2,8 @@
 
 ## I'm a RL enthusiast
 
-- I’m currently learning everything about RL 🤖 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 2020 Goals: Contribute more to Open Source projects
+- I’m currently learning everything about RL 🤖 
+- 2020 Goals: Contribute more to Open Source projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - Fun fact: I love to invent
 - Long-term Goal: Become a master in RL
 
@@ -40,6 +40,12 @@
   <img align="left" alt="jalipo" src="https://github-readme-stats.codestackr.vercel.app/api?username=iamjalipo&theme=vue&show_icons=true&hide_border=true" />
 
 </details>
+
+<br/>
+## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝚃𝚠𝚎𝚎𝚝
+<a href="https://twitter.com/JalalPouromid" target="_blank">
+	<img src="https://github.com/JalalPouromid/JalalPouromid/raw/master/tweet.png" width="70%" align="center" alt="Click to view on Twitter" title="My latest tweet, as an image"/>
+</a>
 
 
 
