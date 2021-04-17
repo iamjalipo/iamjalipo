@@ -23,8 +23,6 @@
 - [@mraginsky: RT like there's no tomorrow!Illinois Institute for Data Science and Dynamical Systems @CSL_Illinois is hosting a virtual Mini-Workshop on Asymptotics and Non-Asymptotics in Control and Reinforcement Learning featuring tutorial talks by @spmeyn and @HazanPrinceton and a panel.](https://twitter.com/mraginsky/status/1380556150739992581)
 - [@JalalPouromid: Current mood, I need to be approved by FDA](https://twitter.com/JalalPouromid/status/1380199603543367682)
 - [@elonmusk: Godzilla vs Kong is so amaze much wow!Most insane movie I’ve ever seen!Love letter to conspiracy theorists!And yet heartwarming in the end.](https://twitter.com/elonmusk/status/1379018148570091522)
-- [@JalalPouromid: As a small member of your beloved web application, I suggest adding a progress bar for the To-Do section in which every user can record how much progress he/she made.@habitica](https://twitter.com/JalalPouromid/status/1379012479666302976)
-- [@JalalPouromid: It makes sense.Darwin help](https://twitter.com/JalalPouromid/status/1376518921197617154)
 <!-- TWITTER:END -->
 
 <br/>
