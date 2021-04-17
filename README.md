@@ -41,11 +41,6 @@
 
 </details>
 
-<br/>
-## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝚃𝚠𝚎𝚎𝚝
-<a href="https://twitter.com/JalalPouromid" target="_blank">
-	<img src="https://github.com/JalalPouromid/JalalPouromid/raw/master/tweet.png" width="70%" align="center" alt="Click to view on Twitter" title="My latest tweet, as an image"/>
-</a>
 
 
 
