@@ -19,7 +19,12 @@
 <br/>
 <br/>
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
+  <img align="left" alt="jalipo" src="https://github-readme-stats.codestackr.vercel.app/api?username=iamjalipo&show_icons=true&hide_border=true" />
+
+</details>
 
 
 
