@@ -16,7 +16,10 @@
 
 <br />
 
+📱 Latest Tweets
 
+<!-- TWITTER:START -->
+<!-- TWITTER:END -->
 
 <br/>
 
@@ -40,15 +43,6 @@
   <img align="left" alt="jalipo" src="https://github-readme-stats.codestackr.vercel.app/api?username=iamjalipo&theme=vue&show_icons=true&hide_border=true" />
 
 </details>
-
-
-<br/>
-<br/>
-### 📱 Latest Tweets
-
-<!-- TWITTER:START -->
-<!-- TWITTER:END -->
-
 
 
 
