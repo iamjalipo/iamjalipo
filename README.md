@@ -24,7 +24,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="jalipo" src="https://github-readme-stats.codestackr.vercel.app/api?username=iamjalipo&theme=vue-dark&show_icons=true&hide_border=true" />
+  <img align="left" alt="jalipo" src="https://github-readme-stats.codestackr.vercel.app/api?username=iamjalipo&theme=vue&show_icons=true&hide_border=true" />
 
 </details>
 
