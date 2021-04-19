@@ -25,7 +25,7 @@
 - [@elonmusk: Godzilla vs Kong is so amaze much wow!Most insane movie I’ve ever seen!Love letter to conspiracy theorists!And yet heartwarming in the end.](https://twitter.com/elonmusk/status/1379018148570091522)
 <!-- TWITTER:END -->
 
-## Stack Overflow Activity <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" height="40" width = '40'> 
+## Latest Activity on Stack Overflow  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" height="40" width = '40'> 
 
 <!-- STACKOVERFLOW:START -->
 - [Answer by JAL IPO_ for Error **ValueError: Wrong number of items passed 2, placement implies 1**](https://stackoverflow.com/questions/67166084/error-valueerror-wrong-number-of-items-passed-2-placement-implies-1/67167989#67167989)
