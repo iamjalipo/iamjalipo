@@ -25,7 +25,7 @@
 - [@elonmusk: Godzilla vs Kong is so amaze much wow!Most insane movie I’ve ever seen!Love letter to conspiracy theorists!And yet heartwarming in the end.](https://twitter.com/elonmusk/status/1379018148570091522)
 <!-- TWITTER:END -->
 
-## Stack Overflow Activity <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" height="40" , width = '40'> 
+## Stack Overflow Activity <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" height="40" width = '40'> 
 
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
