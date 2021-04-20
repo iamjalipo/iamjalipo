@@ -19,6 +19,9 @@
 
 ## Latest Activity
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1](https://github.com/arman-yekkehkhani/DemConv/pull/1) in [arman-yekkehkhani/DemConv](https://github.com/arman-yekkehkhani/DemConv)
+2. ❗️ Opened issue [#407](https://github.com/benjaminsampica/benjaminsampica/issues/407) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
+<!--END_SECTION:activity-->
 
 
 ## Latest Tweets <img src="https://media.giphy.com/media/26BRxIdjE82KNmVJm/giphy.gif" width="30"> 
