@@ -17,6 +17,10 @@
 <br />
 <br/>
 
+## Latest Activity
+<!--START_SECTION:activity-->
+
+
 ## Latest Tweets <img src="https://media.giphy.com/media/26BRxIdjE82KNmVJm/giphy.gif" width="30"> 
 
 <!-- TWITTER:START -->
