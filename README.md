@@ -27,8 +27,8 @@
 ## Latest Tweets <img src="https://media.giphy.com/media/26BRxIdjE82KNmVJm/giphy.gif" width="30"> 
 
 <!-- TWITTER:START -->
+- [@JalalPouromid: A(the capital goes to @yekekhani)nd a pathetic coder](https://twitter.com/JalalPouromid/status/1384919798837137411)
 - [@JalalPouromid: The person who has fallen in love with reinforcement learning by watching David silver's courses and reading Sutton's book](https://twitter.com/JalalPouromid/status/1384100777971523586)
-- [@mraginsky: RT like there's no tomorrow!Illinois Institute for Data Science and Dynamical Systems @CSL_Illinois is hosting a virtual Mini-Workshop on Asymptotics and Non-Asymptotics in Control and Reinforcement Learning featuring tutorial talks by @spmeyn and @HazanPrinceton and a panel.](https://twitter.com/mraginsky/status/1380556150739992581)
 <!-- TWITTER:END -->
 
 ## Latest Activity on Stack Overflow  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" height="40" width = '40'> 
