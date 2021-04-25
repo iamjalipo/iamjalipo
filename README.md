@@ -27,8 +27,7 @@
 ## Latest Tweets <img src="https://media.giphy.com/media/26BRxIdjE82KNmVJm/giphy.gif" width="30"> 
 
 <!-- TWITTER:START -->
-- [@JalalPouromid: A(the capital goes to @yekekhani)nd a pathetic coder](https://twitter.com/JalalPouromid/status/1384919798837137411)
-- [@JalalPouromid: The person who has fallen in love with reinforcement learning by watching David silver's courses and reading Sutton's book](https://twitter.com/JalalPouromid/status/1384100777971523586)
+- [[Action required] Your RSS.app Trial has Expired - Sun Apr 25 2021](https://rss.app)
 <!-- TWITTER:END -->
 
 ## Latest Activity on Stack Overflow  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" height="40" width = '40'> 
