@@ -27,7 +27,7 @@
 ## Latest Tweets <img src="https://media.giphy.com/media/26BRxIdjE82KNmVJm/giphy.gif" width="30"> 
 
 <!-- TWITTER:START -->
-- [[Action required] Your RSS.app Trial has Expired - Sun Apr 25 2021](https://rss.app)
+- [[Action required] Your RSS.app Trial has Expired - Mon Apr 26 2021](https://rss.app)
 <!-- TWITTER:END -->
 
 ## Latest Activity on Stack Overflow  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" height="40" width = '40'> 
