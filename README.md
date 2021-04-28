@@ -27,7 +27,10 @@
 ## Latest Tweets <img src="https://media.giphy.com/media/26BRxIdjE82KNmVJm/giphy.gif" width="30"> 
 
 <!-- TWITTER:START -->
-- [[Action required] Your RSS.app Trial has Expired - Wed Apr 28 2021](https://rss.app)
+- [RT @omarsar0: Understanding a wide range of algorithms helps in becoming a better problem solver with code.
+
+This amazing repo h...](https://twitter.com/JalalPouromid/status/1386831282999635973)
+- [A(the capital goes to @yekekhani)nd a pathetic coder https://t.co/zMCs8K1CA9](https://twitter.com/JalalPouromid/status/1384919798837137411)
 <!-- TWITTER:END -->
 
 ## Latest Activity on Stack Overflow  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" height="40" width = '40'> 
