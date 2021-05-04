@@ -27,10 +27,10 @@
 ## Latest Tweets <img src="https://media.giphy.com/media/26BRxIdjE82KNmVJm/giphy.gif" width="30"> 
 
 <!-- TWITTER:START -->
+- [RT @mostafaa_shirii: Although, I belive that criptocurrensies are futuristic, but i think that the big investors and companies f...](https://twitter.com/JalalPouromid/status/1388893118150455302)
 - [RT @omarsar0: Understanding a wide range of algorithms helps in becoming a better problem solver with code.
 
 This amazing repo h...](https://twitter.com/JalalPouromid/status/1386831282999635973)
-- [A(the capital goes to @yekekhani)nd a pathetic coder https://t.co/zMCs8K1CA9](https://twitter.com/JalalPouromid/status/1384919798837137411)
 <!-- TWITTER:END -->
 
 ## Latest Activity on Stack Overflow  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" height="40" width = '40'> 
