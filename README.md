@@ -5,7 +5,7 @@
  
 - 2021 Goals: Contribute more to Open Source projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - Fun fact: I love to inven(s)t
-- Long-term Goal: Become a master(JEDI) <img src="https://media.giphy.com/media/8hMD9YakVza3452SpN/giphy.gif" width="80">
+- Long-term Goal: Become a master(JEDI) <img src="https://media.giphy.com/media/xBAreNGk5DapO/giphy.gif" height="80">
 
 ### Connect with me:
 
