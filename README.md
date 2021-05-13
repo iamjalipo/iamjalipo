@@ -27,8 +27,8 @@
 ## Latest Tweets <img src="https://media.giphy.com/media/26BRxIdjE82KNmVJm/giphy.gif" width="30"> 
 
 <!-- TWITTER:START -->
+- [RT @bneyshabur: Excited to announce an internship opportunity for summer or fall 2021🔥The research will explore qualitatively ne...](https://twitter.com/JalalPouromid/status/1392407832713207808)
 - [Still hangover after having a giant glass of melon juice mixed with doll-ice cream](https://twitter.com/JalalPouromid/status/1390378682380861451)
-- [RT @yekekhani: @roydanroy Say no more https://t.co/Ue1HEXUYHd](https://twitter.com/JalalPouromid/status/1389987794290872320)
 <!-- TWITTER:END -->
 
 ## Latest Activity on Stack Overflow  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" height="40" width = '40'> 
