@@ -27,8 +27,8 @@
 ## Latest Tweets <img src="https://media.giphy.com/media/26BRxIdjE82KNmVJm/giphy.gif" width="30"> 
 
 <!-- TWITTER:START -->
+- [Rest is all you need https://t.co/Ul7kyBmQ6r](https://twitter.com/JalalPouromid/status/1408086875345195011)
 - [RT @Dongoevsky: academia should consider changing "et al." to "&amp; besties"](https://twitter.com/JalalPouromid/status/1405199374343344131)
-- [RT @bneyshabur: Excited to announce an internship opportunity for summer or fall 2021🔥The research will explore qualitatively ne...](https://twitter.com/JalalPouromid/status/1392407832713207808)
 <!-- TWITTER:END -->
 
 ## Latest Activity on Stack Overflow  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" height="40" width = '40'> 
