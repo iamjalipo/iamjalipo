@@ -27,8 +27,9 @@
 ## Latest Tweets <img src="https://media.giphy.com/media/26BRxIdjE82KNmVJm/giphy.gif" width="30"> 
 
 <!-- TWITTER:START -->
+- [The question of whether machines can think Is about as relevant as the question of whether submarines can swim.
+-W. Dijkstra](https://twitter.com/JalalPouromid/status/1414849210281758721)
 - [Rest is all you need https://t.co/Ul7kyBmQ6r](https://twitter.com/JalalPouromid/status/1408086875345195011)
-- [RT @Dongoevsky: academia should consider changing "et al." to "&amp; besties"](https://twitter.com/JalalPouromid/status/1405199374343344131)
 <!-- TWITTER:END -->
 
 ## Latest Activity on Stack Overflow  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" height="40" width = '40'> 
