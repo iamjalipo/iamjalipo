@@ -27,12 +27,10 @@
 ## Latest Tweets <img src="https://media.giphy.com/media/26BRxIdjE82KNmVJm/giphy.gif" width="30"> 
 
 <!-- TWITTER:START -->
+- [RT @jspujji: The 30-60 rule: A simple rule I created for anyone who has ever worked for me to encourage them to be resourceful y...](https://twitter.com/JalalPouromid/status/1437967592505942017)
 - [RT @1solProtocol: On our way to scale #1SOL to every user on #Solana and beyond. 😎 
 
 Thrilled to be among the amazing #IGNITION ...](https://twitter.com/JalalPouromid/status/1437134958590582787)
-- [RT @paperswithcode: 🔥The ML Reproducibility Challenge is back! 
-
-The 5th annual edition now expands to cover papers from 9 major...](https://twitter.com/JalalPouromid/status/1433773302024179719)
 <!-- TWITTER:END -->
 
 ## Latest Activity on Stack Overflow  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" height="40" width = '40'> 
