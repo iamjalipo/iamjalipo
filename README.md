@@ -27,10 +27,8 @@
 ## Latest Tweets <img src="https://media.giphy.com/media/26BRxIdjE82KNmVJm/giphy.gif" width="30"> 
 
 <!-- TWITTER:START -->
+- [RT @mbodhisattwa: 🚀 Delighted to co-organize *two* upcoming workshops @aclmeeting on Representation Learning for NLP &lpar;#RepL4NLP&rpar;...](https://twitter.com/JalalPouromid/status/1462856880309551104)
 - [RT @shortstein: If your conference has a page limit, please ensure that your LaTeX style includes page numbers.](https://twitter.com/JalalPouromid/status/1448533249102331907)
-- [RT @jessemhan: New paper, new SOTA in unsupervised neural machine translation, joint with colleagues at @OpenAI:
-
-Unsupervised N...](https://twitter.com/JalalPouromid/status/1447803916708687875)
 <!-- TWITTER:END -->
 
 ## Latest Activity on Stack Overflow  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" height="40" width = '40'> 
