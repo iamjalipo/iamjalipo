@@ -27,8 +27,10 @@
 ## Latest Tweets <img src="https://media.giphy.com/media/26BRxIdjE82KNmVJm/giphy.gif" width="30"> 
 
 <!-- TWITTER:START -->
+- [RT @WholeMarsBlog: must be some kind of bug 
+
+false positive https://t.co/4QMK7JgRFY](https://twitter.com/JalalPouromid/status/1468154071685214208)
 - [RT @mbodhisattwa: 🚀 Delighted to co-organize *two* upcoming workshops @aclmeeting on Representation Learning for NLP &lpar;#RepL4NLP&rpar;...](https://twitter.com/JalalPouromid/status/1462856880309551104)
-- [RT @shortstein: If your conference has a page limit, please ensure that your LaTeX style includes page numbers.](https://twitter.com/JalalPouromid/status/1448533249102331907)
 <!-- TWITTER:END -->
 
 ## Latest Activity on Stack Overflow  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" height="40" width = '40'> 
