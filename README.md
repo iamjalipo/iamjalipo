@@ -27,9 +27,10 @@
 ## Latest Tweets <img src="https://media.giphy.com/media/26BRxIdjE82KNmVJm/giphy.gif" width="30"> 
 
 <!-- TWITTER:START -->
+- [RT @manisha72617183: The phrase &quot;what the entire fuck&quot; implies the existence of fractional fucks. 
+
+&quot;what the absolute fuck&quot; imp...](https://twitter.com/JalalPouromid/status/1481946866975657990)
 - [RT @soldni: NLP research in the Year of the Lord 2021: https://t.co/jSf8cqUq8o](https://twitter.com/JalalPouromid/status/1472501865959108609)
-- [RT @gh_marjan: Excited to share our new work: Discourse-Aware Prompt Design for Text Generation
-We propose simple methods to enr...](https://twitter.com/JalalPouromid/status/1470877231530618880)
 <!-- TWITTER:END -->
 
 ## Latest Activity on Stack Overflow  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" height="40" width = '40'> 
