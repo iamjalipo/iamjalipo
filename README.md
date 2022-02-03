@@ -27,10 +27,10 @@
 ## Latest Tweets <img src="https://media.giphy.com/media/26BRxIdjE82KNmVJm/giphy.gif" width="30"> 
 
 <!-- TWITTER:START -->
-- [RT @manisha72617183: The phrase &quot;what the entire fuck&quot; implies the existence of fractional fucks. 
+- [RT @VeredShwartz: I&#39;m very excited about this visit, it will be my first in-person talk in a long time! 😃 https://t.co/nXpd0f8Wr...](https://twitter.com/JalalPouromid/status/1488845440829333506)
+- [RT @uwaterlooAI: Upcoming https://t.co/tppuqFii0E Seminars for the Month of February 2022:
 
-&quot;what the absolute fuck&quot; imp...](https://twitter.com/JalalPouromid/status/1481946866975657990)
-- [RT @soldni: NLP research in the Year of the Lord 2021: https://t.co/jSf8cqUq8o](https://twitter.com/JalalPouromid/status/1472501865959108609)
+Feb. 3 - Prof. Martha White on &quot;Deve...](https://twitter.com/JalalPouromid/status/1488585037679321090)
 <!-- TWITTER:END -->
 
 ## Latest Activity on Stack Overflow  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" height="40" width = '40'> 
