@@ -27,10 +27,8 @@
 ## Latest Tweets <img src="https://media.giphy.com/media/26BRxIdjE82KNmVJm/giphy.gif" width="30"> 
 
 <!-- TWITTER:START -->
-- [RT @VeredShwartz: I&#39;m very excited about this visit, it will be my first in-person talk in a long time! 😃 https://t.co/nXpd0f8Wr...](https://twitter.com/JalalPouromid/status/1488845440829333506)
-- [RT @uwaterlooAI: Upcoming https://t.co/tppuqFii0E Seminars for the Month of February 2022:
-
-Feb. 3 - Prof. Martha White on &quot;Deve...](https://twitter.com/JalalPouromid/status/1488585037679321090)
+- [RT @burkov: In my team, we use physical GPUs for machine learning R&amp;amp;D not because cloud GPUs are 5 to 10 times more expensiv...](https://twitter.com/JalalPouromid/status/1493813176332427268)
+- [RT @quaesita: Personality test: do you ignore it, do you use a pencil, do you Google it, or do you know about https://t.co/qAbwz...](https://twitter.com/JalalPouromid/status/1493475459576827906)
 <!-- TWITTER:END -->
 
 ## Latest Activity on Stack Overflow  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" height="40" width = '40'> 
