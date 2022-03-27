@@ -27,8 +27,22 @@
 ## Latest Tweets <img src="https://media.giphy.com/media/26BRxIdjE82KNmVJm/giphy.gif" width="30"> 
 
 <!-- TWITTER:START -->
-- [RT @burkov: In my team, we use physical GPUs for machine learning R&amp;amp;D not because cloud GPUs are 5 to 10 times more expensiv...](https://twitter.com/JalalPouromid/status/1493813176332427268)
-- [RT @quaesita: Personality test: do you ignore it, do you use a pencil, do you Google it, or do you know about https://t.co/qAbwz...](https://twitter.com/JalalPouromid/status/1493475459576827906)
+- [RT @web3_coin: 🔥#Web3Coin  
+This round of IDO only has 16 hours
+
+#We3Coin will keep rising💹
+
+#We3Coin strive for more benefits f...](https://twitter.com/JalalPouromid/status/1507379122607169563)
+- [RT @web3_coin: 👏WEB3Coin 2022 price trend👏
+
+IDO Price:$0.0005
+March:$0.01
+April:$0.05
+May: $0.1
+June: $0.5
+December: $5
+
+👉BUY ID...](https://twitter.com/JalalPouromid/status/1507378972501368840)
 <!-- TWITTER:END -->
 
 ## Latest Activity on Stack Overflow  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" height="40" width = '40'> 
