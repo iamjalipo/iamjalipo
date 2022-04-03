@@ -27,22 +27,16 @@
 ## Latest Tweets <img src="https://media.giphy.com/media/26BRxIdjE82KNmVJm/giphy.gif" width="30"> 
 
 <!-- TWITTER:START -->
-- [RT @web3_coin: 🔥#Web3Coin  
-This round of IDO only has 16 hours
+- [RT @AirdropBSC_Com: 🎁 #AIRDROP 3,000 $BNB FOR 3,000 PARTICIPANTS 
 
-#We3Coin will keep rising💹
+🎁 First come, first serve
 
-#We3Coin strive for more benefits f...](https://twitter.com/JalalPouromid/status/1507379122607169563)
-- [RT @web3_coin: 👏WEB3Coin 2022 price trend👏
+🔗Airdrop Link: https://t.co/55bvoi...](https://twitter.com/JalalPouromid/status/1510235069964857352)
+- [RT @RMoonOfficial: 🔥🔥🔥Rmoon  price has reached 0.76$.
+ ⏳This round of IDO is only 18 hours.
 
-IDO Price:$0.0005
-March:$0.01
-April:$0.05
-May: $0.1
-June: $0.5
-December: $5
-
-👉BUY ID...](https://twitter.com/JalalPouromid/status/1507378972501368840)
+IDO price: $0.0054💹
+PancakeSwap Pri...](https://twitter.com/JalalPouromid/status/1510234969670627332)
 <!-- TWITTER:END -->
 
 ## Latest Activity on Stack Overflow  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" height="40" width = '40'> 
