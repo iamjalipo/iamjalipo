@@ -27,16 +27,14 @@
 ## Latest Tweets <img src="https://media.giphy.com/media/26BRxIdjE82KNmVJm/giphy.gif" width="30"> 
 
 <!-- TWITTER:START -->
+- [RT @FishGun_Crypto: Community launch airdrop event
+Total Prize: 2,500,000 $FGC Token. The rules are as follows:
+🐡Complete tasks ...](https://twitter.com/JalalPouromid/status/1510434904487743493)
 - [RT @AirdropBSC_Com: 🎁 #AIRDROP 3,000 $BNB FOR 3,000 PARTICIPANTS 
 
 🎁 First come, first serve
 
 🔗Airdrop Link: https://t.co/55bvoi...](https://twitter.com/JalalPouromid/status/1510235069964857352)
-- [RT @RMoonOfficial: 🔥🔥🔥Rmoon  price has reached 0.76$.
- ⏳This round of IDO is only 18 hours.
-
-IDO price: $0.0054💹
-PancakeSwap Pri...](https://twitter.com/JalalPouromid/status/1510234969670627332)
 <!-- TWITTER:END -->
 
 ## Latest Activity on Stack Overflow  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" height="40" width = '40'> 
