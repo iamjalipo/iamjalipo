@@ -14,6 +14,12 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 <br/>
 
 ## Latest Activity <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="80"> 
