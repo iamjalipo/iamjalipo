@@ -17,11 +17,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [جزوه حقوق تجارت](https://www.elsalawyers.com/%d8%ad%d9%82%d9%88%d9%82%db%8c/%d8%ac%d8%b2%d9%88%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%aa%d8%ac%d8%a7%d8%b1%d8%aa/)
-- [جزوه حقوق اساسی سه](https://www.elsalawyers.com/crime/%d8%ac%d8%b2%d9%88%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d8%b3%d8%a7%d8%b3%db%8c-%d8%b3%d9%87/)
-- [جزوه حقوق اساسی یک](https://www.elsalawyers.com/crime/10252/)
-- [حق مالکیت](https://www.elsalawyers.com/%d8%ad%d9%82%d9%88%d9%82%db%8c/%d8%ad%d9%82-%d9%85%d8%a7%d9%84%da%a9%db%8c%d8%aa/)
-- [توقیف مال](https://www.elsalawyers.com/%d8%ad%d9%82%d9%88%d9%82%db%8c/%d8%aa%d9%88%d9%82%db%8c%d9%81-%d9%85%d8%a7%d9%84/)
+- [بهترین وکیل خانواده در تهران| مشاوره و خدمات حقوقی](https://hesabraslaw.com/blog/%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D9%88%DA%A9%DB%8C%D9%84-%D8%AE%D8%A7%D9%86%D9%88%D8%A7%D8%AF%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86/)
+- [سوالات  آزمون وکالت ۱۴۰۲ به همراه پاسخنامه سوالات](https://hesabraslaw.com/blog/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D9%88-%D9%BE%D8%A7%D8%B3%D8%AE%D9%86%D8%A7%D9%85%D9%87-%D8%A2%D8%B2%D9%85%D9%88%D9%86-%D9%88%DA%A9%D8%A7%D9%84%D8%AA-%DB%B1%DB%B4%DB%B0%DB%B2-%D8%A8%D9%87-%D8%B5%D9%88%D8%B1%D8%AA-%DB%8C%DA%A9%D8%AC%D8%A7/)
+- [مسئولیت کیفری اشخاص حقوقی و مجازات اشخاص حقوقی](https://hesabraslaw.com/blog/%D9%85%D8%B3%D8%A6%D9%88%D9%84%DB%8C%D8%AA-%DA%A9%DB%8C%D9%81%D8%B1%DB%8C-%D8%A7%D8%B4%D8%AE%D8%A7%D8%B5-%D8%AD%D9%82%D9%88%D9%82%DB%8C-%D9%88-%D9%85%D8%AC%D8%A7%D8%B2%D8%A7%D8%AA-%D8%A7%D8%B4%D8%AE%D8%A7%D8%B5-%D8%AD%D9%82%D9%88%D9%82%DB%8C/)
+- [جرایم  تعزیری اطفال و نوجوانان - افراد 9 تا 15 سال و 15 تا 18 سال](https://hesabraslaw.com/blog/%D8%AC%D8%B1%D8%A7%DB%8C%D9%85-%D8%AA%D8%B9%D8%B2%DB%8C%D8%B1%DB%8C-%D8%A7%D8%B7%D9%81%D8%A7%D9%84-%D9%88-%D9%86%D9%88%D8%AC%D9%88%D8%A7%D9%86%D8%A7%D9%86/)
+- [عوامل مانع مسئولیت کیفری - اجبار و اکراه &lpar;جزای عمومی&rpar;](https://hesabraslaw.com/blog/%D8%B9%D9%88%D8%A7%D9%85%D9%84-%D9%85%D8%A7%D9%86%D8%B9-%D9%85%D8%B3%D8%A6%D9%88%D9%84%DB%8C%D8%AA-%DA%A9%DB%8C%D9%81%D8%B1%DB%8C-%D8%A7%D8%AC%D8%A8%D8%A7%D8%B1-%D9%88-%D8%A7%DA%A9%D8%B1%D8%A7%D9%87-%D8%AC%D8%B2%D8%A7%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C/)
 <!-- BLOG-POST-LIST:END -->
 
 
