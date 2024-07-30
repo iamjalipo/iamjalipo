@@ -17,11 +17,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [مشاوره با بهترین وکیل مهریه در تهران ⚖️ آدرس و شماره](https://hesabraslaw.com/blog/%D9%85%D8%B4%D8%A7%D9%88%D8%B1%D9%87-%D8%A8%D8%A7-%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D9%88%DA%A9%DB%8C%D9%84-%D9%85%D9%87%D8%B1%DB%8C%D9%87-%D8%AF%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%A2%D8%AF%D8%B1%D8%B3-%D9%88-%D8%B4%D9%85%D8%A7%D8%B1%D9%87/)
-- [اعاده دادرسی چیست؟  شرایط بازنگری در احکام قطعی](https://hesabraslaw.com/blog/%D8%A7%D8%B9%D8%A7%D8%AF%D9%87-%D8%AF%D8%A7%D8%AF%D8%B1%D8%B3%DB%8C-%DA%86%DB%8C%D8%B3%D8%AA-%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7-%D8%A8%D8%A7%D8%B2%D9%86%DA%AF%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%AD%DA%A9%D8%A7%D9%85-%D9%82%D8%B7%D8%B9%DB%8C/)
-- [دلیل کیفری چیست ؟ اهمیت تحصیل دلیل کیفری در نظام حقوقی](https://hesabraslaw.com/blog/%D8%AF%D9%84%DB%8C%D9%84-%DA%A9%DB%8C%D9%81%D8%B1%DB%8C-%DA%86%DB%8C%D8%B3%D8%AA-%D8%A7%D9%87%D9%85%DB%8C%D8%AA-%D8%AA%D8%AD%D8%B5%DB%8C%D9%84-%D8%AF%D9%84%DB%8C%D9%84-%DA%A9%DB%8C%D9%81%D8%B1%DB%8C-%D8%AF%D8%B1-%D9%86%D8%B8%D8%A7%D9%85-%D8%AD%D9%82%D9%88%D9%82%DB%8C/)
-- [قرار بازداشت موقت چیست؟ شرایط و انواع آن](https://hesabraslaw.com/blog/%D9%82%D8%B1%D8%A7%D8%B1-%D8%A8%D8%A7%D8%B2%D8%AF%D8%A7%D8%B4%D8%AA-%D9%85%D9%88%D9%82%D8%AA-%DA%86%DB%8C%D8%B3%D8%AA-%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A2%D9%86/)
-- [قرار  تامین دلیل چیست و در چه مواردی صادر می‌شود؟ تفاوت تامین دلیل با تامین خواسته](https://hesabraslaw.com/blog/%D9%82%D8%B1%D8%A7%D8%B1-%D8%AA%D8%A7%D9%85%DB%8C%D9%86-%D8%AF%D9%84%DB%8C%D9%84-%DA%86%DB%8C%D8%B3%D8%AA-%D9%88-%D8%AF%D8%B1-%DA%86%D9%87-%D9%85%D9%88%D8%A7%D8%B1%D8%AF%DB%8C-%D8%B5%D8%A7%D8%AF%D8%B1-%D9%85%DB%8C%D8%B4%D9%88%D8%AF-%D8%AA%D9%81%D8%A7%D9%88%D8%AA-%D8%AA%D8%A7%D9%85%DB%8C%D9%86-%D8%AF%D9%84%DB%8C%D9%84-%D8%A8%D8%A7-%D8%AA%D8%A7%D9%85%DB%8C%D9%86-%D8%AE%D9%88%D8%A7%D8%B3%D8%AA%D9%87/)
+- [آدرس دادسراهای تهران](https://www.elsalawyers.com/crime/%d8%a2%d8%af%d8%b1%d8%b3-%d8%af%d8%a7%d8%af%d8%b3%d8%b1%d8%a7%d9%87%d8%a7%db%8c-%d8%aa%d9%87%d8%b1%d8%a7%d9%86-2/)
+- [جزوه حقوق تجارت](https://www.elsalawyers.com/%d8%ad%d9%82%d9%88%d9%82%db%8c/%d8%ac%d8%b2%d9%88%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%aa%d8%ac%d8%a7%d8%b1%d8%aa/)
+- [جزوه حقوق اساسی سه](https://www.elsalawyers.com/crime/%d8%ac%d8%b2%d9%88%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d8%b3%d8%a7%d8%b3%db%8c-%d8%b3%d9%87/)
+- [جزوه حقوق اساسی یک](https://www.elsalawyers.com/crime/10252/)
+- [حق مالکیت](https://www.elsalawyers.com/%d8%ad%d9%82%d9%88%d9%82%db%8c/%d8%ad%d9%82-%d9%85%d8%a7%d9%84%da%a9%db%8c%d8%aa/)
 <!-- BLOG-POST-LIST:END -->
 
 
