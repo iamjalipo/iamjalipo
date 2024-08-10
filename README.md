@@ -17,11 +17,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [مشاوره با بهترین وکیل مواد مخدر در تهران &lpar;راهنمای جامع برای انتخاب صحیح&rpar;](https://hesabraslaw.com/blog/%D9%85%D8%B4%D8%A7%D9%88%D8%B1%D9%87-%D8%A8%D8%A7-%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D9%88%DA%A9%DB%8C%D9%84-%D9%85%D9%88%D8%A7%D8%AF-%D9%85%D8%AE%D8%AF%D8%B1-%D8%AF%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7%DB%8C-%D8%AC%D8%A7%D9%85%D8%B9-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8-%D8%B5%D8%AD%DB%8C%D8%AD/)
-- [مراحل و قوانین طلاق توافقی &lpar;راهنمای جامع برای طلاق سریع و موثر&rpar;](https://hesabraslaw.com/blog/%D9%85%D8%B1%D8%A7%D8%AD%D9%84-%D9%88-%D9%82%D9%88%D8%A7%D9%86%DB%8C%D9%86-%D8%B7%D9%84%D8%A7%D9%82-%D8%AA%D9%88%D8%A7%D9%81%D9%82%DB%8C-%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7%DB%8C-%D8%AC%D8%A7%D9%85%D8%B9-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B7%D9%84%D8%A7%D9%82-%D8%B3%D8%B1%DB%8C%D8%B9-%D9%88-%D9%85%D9%88%D8%AB%D8%B1/)
-- [مشاوره با بهترین وکیل طلاق در تهران &lpar;راهنمای جامع برای تصمیم‌گیری آگاهانه&rpar;](https://hesabraslaw.com/blog/%D9%85%D8%B4%D8%A7%D9%88%D8%B1%D9%87-%D8%A8%D8%A7-%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D9%88%DA%A9%DB%8C%D9%84-%D8%B7%D9%84%D8%A7%D9%82-%D8%AF%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7%DB%8C-%D8%AC%D8%A7%D9%85%D8%B9-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D8%B5%D9%85%DB%8C%D9%85%DA%AF%DB%8C%D8%B1%DB%8C-%D8%A2%DA%AF%D8%A7%D9%87%D8%A7%D9%86%D9%87/)
-- [رانندگی در حالت مستی چه مجازاتی دارد؟](https://hesabraslaw.com/blog/%D8%B1%D8%A7%D9%86%D9%86%D8%AF%DA%AF%DB%8C-%D8%AF%D8%B1-%D8%AD%D8%A7%D9%84%D8%AA-%D9%85%D8%B3%D8%AA%DB%8C-%DA%86%D9%87-%D9%85%D8%AC%D8%A7%D8%B2%D8%A7%D8%AA%DB%8C-%D8%AF%D8%A7%D8%B1%D8%AF/)
-- [عواقب تهدید و انتشار تصاویر خصوصی در فضای مجازی چیست؟](https://hesabraslaw.com/blog/%D8%B9%D9%88%D8%A7%D9%82%D8%A8-%D8%AA%D9%87%D8%AF%DB%8C%D8%AF-%D9%88-%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1-%D8%AA%D8%B5%D8%A7%D9%88%DB%8C%D8%B1-%D8%AE%D8%B5%D9%88%D8%B5%DB%8C-%D8%AF%D8%B1-%D9%81%D8%B6%D8%A7%DB%8C-%D9%85%D8%AC%D8%A7%D8%B2%DB%8C-%DA%86%DB%8C%D8%B3%D8%AA/)
+- [آدرس دادسراهای تهران](https://www.elsalawyers.com/crime/%d8%a2%d8%af%d8%b1%d8%b3-%d8%af%d8%a7%d8%af%d8%b3%d8%b1%d8%a7%d9%87%d8%a7%db%8c-%d8%aa%d9%87%d8%b1%d8%a7%d9%86-2/)
+- [جزوه حقوق تجارت](https://www.elsalawyers.com/%d8%ad%d9%82%d9%88%d9%82%db%8c/%d8%ac%d8%b2%d9%88%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%aa%d8%ac%d8%a7%d8%b1%d8%aa/)
+- [جزوه حقوق اساسی سه](https://www.elsalawyers.com/crime/%d8%ac%d8%b2%d9%88%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d8%b3%d8%a7%d8%b3%db%8c-%d8%b3%d9%87/)
+- [جزوه حقوق اساسی یک](https://www.elsalawyers.com/crime/10252/)
+- [حق مالکیت](https://www.elsalawyers.com/%d8%ad%d9%82%d9%88%d9%82%db%8c/%d8%ad%d9%82-%d9%85%d8%a7%d9%84%da%a9%db%8c%d8%aa/)
 <!-- BLOG-POST-LIST:END -->
 
 
