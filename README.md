@@ -17,11 +17,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ایین دادرسی مدنی 1](https://hesabraslaw.com/blog/%D8%A7%DB%8C%DB%8C%D9%86-%D8%AF%D8%A7%D8%AF%D8%B1%D8%B3%DB%8C-%D9%85%D8%AF%D9%86%DB%8C-1/)
-- [مفهوم مال و اقسام اموال](https://hesabraslaw.com/blog/%D9%85%D9%81%D9%87%D9%88%D9%85-%D9%85%D8%A7%D9%84-%D9%88-%D8%A7%D9%82%D8%B3%D8%A7%D9%85-%D8%A7%D9%85%D9%88%D8%A7%D9%84/)
-- [شکایت از فروشنده در دیوار: چالش‌ها و راهکارها](https://hesabraslaw.com/blog/%D8%B4%DA%A9%D8%A7%DB%8C%D8%AA-%D8%A7%D8%B2-%D9%81%D8%B1%D9%88%D8%B4%D9%86%D8%AF%D9%87-%D8%AF%D8%B1-%D8%AF%DB%8C%D9%88%D8%A7%D8%B1-%DA%86%D8%A7%D9%84%D8%B4%D9%87%D8%A7-%D9%88-%D8%B1%D8%A7%D9%87%DA%A9%D8%A7%D8%B1%D9%87%D8%A7/)
-- [شکایت از شرکت هواپیمایی چگونه است؟ ⚖️ دلایل و روش آن](https://hesabraslaw.com/blog/%D8%B4%DA%A9%D8%A7%DB%8C%D8%AA-%D8%A7%D8%B2-%D8%B4%D8%B1%DA%A9%D8%AA-%D9%87%D9%88%D8%A7%D9%BE%DB%8C%D9%85%D8%A7%DB%8C%DB%8C-%DA%86%DA%AF%D9%88%D9%86%D9%87-%D8%A7%D8%B3%D8%AA-%D8%AF%D9%84%D8%A7%DB%8C%D9%84-%D9%88-%D8%B1%D9%88%D8%B4-%D8%A2%D9%86/)
-- [شکایت ضرب و جرح چگونه است؟ ⚖️ مراحل و مدارک آن](https://hesabraslaw.com/blog/%D8%B4%DA%A9%D8%A7%DB%8C%D8%AA-%D8%B6%D8%B1%D8%A8-%D9%88-%D8%AC%D8%B1%D8%AD-%DA%86%DA%AF%D9%88%D9%86%D9%87-%D8%A7%D8%B3%D8%AA-%D9%85%D8%B1%D8%A7%D8%AD%D9%84-%D9%88-%D9%85%D8%AF%D8%A7%D8%B1%DA%A9-%D8%A2%D9%86/)
+- [گوگل در حال آزمایش تیک های تایید در قسمت جستجو است](https://cyberuni.ir/blog/%DA%AF%D9%88%DA%AF%D9%84-%D8%AF%D8%B1-%D8%AD%D8%A7%D9%84-%D8%A2%D8%B2%D9%85%D8%A7%DB%8C%D8%B4-%D8%AA%DB%8C%DA%A9-%D9%87%D8%A7%DB%8C-%D8%AA%D8%A7%DB%8C%DB%8C%D8%AF-%D8%AF%D8%B1-%D9%82%D8%B3%D9%85%D8%AA-%D8%AC%D8%B3%D8%AA%D8%AC%D9%88-%D8%A7%D8%B3%D8%AA/)
 <!-- BLOG-POST-LIST:END -->
 
 
