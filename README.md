@@ -50,8 +50,8 @@ Total Prize: 2,500,000 $FGC Token. The rules are as follows:
 ## Latest Activity on Stack Overflow  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" height="40" width = '40'> 
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by JAL IPO_ for Dimensions of a meshed object at discrete points along the object&#39;s skeleton](https://stackoverflow.com/questions/79000040/dimensions-of-a-meshed-object-at-discrete-points-along-the-objects-skeleton/79051975#79051975)
 - [Answer by JAL IPO_ for Replace a string in list of lists](https://stackoverflow.com/questions/13781828/replace-a-string-in-list-of-lists/75055822#75055822)
-- [Combine MRI image with an heatmap plot](https://stackoverflow.com/questions/74984115/combine-mri-image-with-an-heatmap-plot)
 <!-- STACKOVERFLOW:END -->
 
 <br/>
