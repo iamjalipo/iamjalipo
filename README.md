@@ -17,11 +17,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [اپل اینتلیجنس چیست و چه زمانی در آیفون ۱۶ در دسترس قرار می‌گیرد؟](https://cyberuni.ir/blog/%D8%A7%D9%BE%D9%84-%D8%A7%DB%8C%D9%86%D8%AA%D9%84%DB%8C%D8%AC%D9%86%D8%B3-%DA%86%DB%8C%D8%B3%D8%AA-%D9%88-%DA%86%D9%87-%D8%B2%D9%85%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D8%A2%DB%8C%D9%81%D9%88%D9%86-%DB%B1%DB%B6-%D8%AF%D8%B1-%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3-%D9%82%D8%B1%D8%A7%D8%B1-%D9%85%DB%8C%DA%AF%DB%8C%D8%B1%D8%AF/)
 - [بهره‌برداری از حافظه‌ی طولانی‌مدت ChatGPT: یک راه نفوذ برای هکرها](https://cyberuni.ir/blog/%D8%A8%D9%87%D8%B1%D9%87%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%D8%A7%D8%B2-%D8%AD%D8%A7%D9%81%D8%B8%D9%87%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C%D9%85%D8%AF%D8%AA-chatgpt-%DB%8C%DA%A9-%D8%B1%D8%A7%D9%87-%D9%86%D9%81%D9%88%D8%B0-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%87%DA%A9%D8%B1%D9%87%D8%A7/)
 - [امتحان یک هوش مصنوعی برای تولید دستور غذا، اپلیکیشن SideChef](https://cyberuni.ir/blog/%D8%A7%D9%85%D8%AA%D8%AD%D8%A7%D9%86-%DB%8C%DA%A9-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%AF%D8%B3%D8%AA%D9%88%D8%B1-%D8%BA%D8%B0%D8%A7-%D8%A7%D9%BE%D9%84%DB%8C%DA%A9%DB%8C%D8%B4%D9%86-sidechef/)
 - [تهیه خلاصه‌ای از داده‌های اکسل با استفاده از هوش مصنوعی](https://cyberuni.ir/blog/%D8%AA%D9%87%DB%8C%D9%87-%D8%AE%D9%84%D8%A7%D8%B5%D9%87%D8%A7%DB%8C-%D8%A7%D8%B2-%D8%AF%D8%A7%D8%AF%D9%87%D9%87%D8%A7%DB%8C-%D8%A7%DA%A9%D8%B3%D9%84-%D8%A8%D8%A7-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C/)
 - [بررسی Adobe Firefly: تصاویر هوش مصنوعی برای هنرمندان و طرفداران عکس‌های استوک](https://cyberuni.ir/blog/%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-adobe-firefly-%D8%AA%D8%B5%D8%A7%D9%88%DB%8C%D8%B1-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%87%D9%86%D8%B1%D9%85%D9%86%D8%AF%D8%A7%D9%86-%D9%88-%D8%B7%D8%B1%D9%81%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%D8%B9%DA%A9%D8%B3%D9%87%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%88%DA%A9/)
-- [Perpelexity AI : ترکیبی از چت‌بات و موتور جستجو با دسترسی به اینترنت](https://cyberuni.ir/blog/perpelexity-ai-%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C-%D8%A7%D8%B2-%DA%86%D8%AA%D8%A8%D8%A7%D8%AA-%D9%88-%D9%85%D9%88%D8%AA%D9%88%D8%B1-%D8%AC%D8%B3%D8%AA%D8%AC%D9%88-%D8%A8%D8%A7-%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C-%D8%A8%D9%87-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA/)
 <!-- BLOG-POST-LIST:END -->
 
 
