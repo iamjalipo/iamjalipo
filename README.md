@@ -17,11 +17,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [چگونه از هوش مصنوعی برای صرفه‌جویی در زمان و افزایش بهره‌وری استفاده کنیم!](https://cyberuni.ir/blog/%DA%86%DA%AF%D9%88%D9%86%D9%87-%D8%A7%D8%B2-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B5%D8%B1%D9%81%D9%87%D8%AC%D9%88%DB%8C%DB%8C-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D9%88-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%A8%D9%87%D8%B1%D9%87%D9%88%D8%B1%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%DA%A9%D9%86%DB%8C%D9%85/)
 - [چگونه از ChatGPT برای یافتن بهترین تخفیف‌ها استفاده کنیم؟](https://cyberuni.ir/blog/%DA%86%DA%AF%D9%88%D9%86%D9%87-%D8%A7%D8%B2-chatgpt-%D8%A8%D8%B1%D8%A7%DB%8C-%DB%8C%D8%A7%D9%81%D8%AA%D9%86-%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D8%AA%D8%AE%D9%81%DB%8C%D9%81%D9%87%D8%A7-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%DA%A9%D9%86%DB%8C%D9%85/)
 - [تاثیرات تاریخی سرمایه‌گذاری بی‌سابقه بر OpenAI و آینده هوش مصنوعی](https://cyberuni.ir/blog/%D8%AA%D8%A7%D8%AB%DB%8C%D8%B1%D8%A7%D8%AA-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE%DB%8C-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D8%A8%DB%8C%D8%B3%D8%A7%D8%A8%D9%82%D9%87-%D8%A8%D8%B1-openai-%D9%88-%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C/)
 - [اپل اینتلیجنس چیست و چه زمانی در آیفون ۱۶ در دسترس قرار می‌گیرد؟](https://cyberuni.ir/blog/%D8%A7%D9%BE%D9%84-%D8%A7%DB%8C%D9%86%D8%AA%D9%84%DB%8C%D8%AC%D9%86%D8%B3-%DA%86%DB%8C%D8%B3%D8%AA-%D9%88-%DA%86%D9%87-%D8%B2%D9%85%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D8%A2%DB%8C%D9%81%D9%88%D9%86-%DB%B1%DB%B6-%D8%AF%D8%B1-%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3-%D9%82%D8%B1%D8%A7%D8%B1-%D9%85%DB%8C%DA%AF%DB%8C%D8%B1%D8%AF/)
 - [بهره‌برداری از حافظه‌ی طولانی‌مدت ChatGPT: یک راه نفوذ برای هکرها](https://cyberuni.ir/blog/%D8%A8%D9%87%D8%B1%D9%87%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%D8%A7%D8%B2-%D8%AD%D8%A7%D9%81%D8%B8%D9%87%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C%D9%85%D8%AF%D8%AA-chatgpt-%DB%8C%DA%A9-%D8%B1%D8%A7%D9%87-%D9%86%D9%81%D9%88%D8%B0-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%87%DA%A9%D8%B1%D9%87%D8%A7/)
-- [امتحان یک هوش مصنوعی برای تولید دستور غذا، اپلیکیشن SideChef](https://cyberuni.ir/blog/%D8%A7%D9%85%D8%AA%D8%AD%D8%A7%D9%86-%DB%8C%DA%A9-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%AF%D8%B3%D8%AA%D9%88%D8%B1-%D8%BA%D8%B0%D8%A7-%D8%A7%D9%BE%D9%84%DB%8C%DA%A9%DB%8C%D8%B4%D9%86-sidechef/)
 <!-- BLOG-POST-LIST:END -->
 
 
