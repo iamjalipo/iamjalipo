@@ -17,11 +17,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [به کارگیری یادگیری ماشین مبتنی بر رگرسیون در وب اسکرپینگ](https://cyberuni.ir/blog/%D8%A8%D9%87-%DA%A9%D8%A7%D8%B1%DA%AF%DB%8C%D8%B1%DB%8C-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%85%D8%A8%D8%AA%D9%86%DB%8C-%D8%A8%D8%B1-%D8%B1%DA%AF%D8%B1%D8%B3%DB%8C%D9%88%D9%86-%D8%AF%D8%B1-%D9%88%D8%A8-%D8%A7%D8%B3%DA%A9%D8%B1%D9%BE%DB%8C%D9%86%DA%AF/)
 - [نقش Power BI در صنعت تولید: تحول دیجیتال و بهبود عملکرد](https://cyberuni.ir/blog/%D9%86%D9%82%D8%B4-power-bi-%D8%AF%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%AA%D8%AD%D9%88%D9%84-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84-%D9%88-%D8%A8%D9%87%D8%A8%D9%88%D8%AF-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF/)
 - [چرا Power BI به عنوان بهترین ابزار هوش تجاری &lpar;BI&rpar; شناخته می‌شود؟](https://cyberuni.ir/blog/%DA%86%D8%B1%D8%A7-power-bi-%D8%A8%D9%87-%D8%B9%D9%86%D9%88%D8%A7%D9%86-%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D9%87%D9%88%D8%B4-%D8%AA%D8%AC%D8%A7%D8%B1%DB%8C-bi-%D8%B4%D9%86%D8%A7%D8%AE%D8%AA%D9%87-%D9%85%DB%8C%D8%B4%D9%88%D8%AF/)
 - [چگونه علم داده و هوش تجاری &lpar;BI&rpar; صنعت ورزش را متحول می‌کنند؟](https://cyberuni.ir/blog/%DA%86%DA%AF%D9%88%D9%86%D9%87-%D8%B9%D9%84%D9%85-%D8%AF%D8%A7%D8%AF%D9%87-%D9%88-%D9%87%D9%88%D8%B4-%D8%AA%D8%AC%D8%A7%D8%B1%DB%8C-bi-%D8%B5%D9%86%D8%B9%D8%AA-%D9%88%D8%B1%D8%B2%D8%B4-%D8%B1%D8%A7-%D9%85%D8%AA%D8%AD%D9%88%D9%84-%D9%85%DB%8C%DA%A9%D9%86%D9%86%D8%AF/)
 - [Power BI چیست و ۵ دلیل برای استفاده از آن در تحلیل کسب‌وکار](https://cyberuni.ir/blog/power-bi-%DA%86%DB%8C%D8%B3%D8%AA-%D9%88-%DB%B5-%D8%AF%D9%84%DB%8C%D9%84-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%D8%A2%D9%86-%D8%AF%D8%B1-%D8%AA%D8%AD%D9%84%DB%8C%D9%84-%DA%A9%D8%B3%D8%A8%D9%88%DA%A9%D8%A7%D8%B1/)
-- [مشاوره BI چیست و چرا Microsoft Power BI یکی از محبوب‌ترین ابزارها است؟](https://cyberuni.ir/blog/%D9%85%D8%B4%D8%A7%D9%88%D8%B1%D9%87-bi-%DA%86%DB%8C%D8%B3%D8%AA-%D9%88-%DA%86%D8%B1%D8%A7-microsoft-power-bi-%DB%8C%DA%A9%DB%8C-%D8%A7%D8%B2-%D9%85%D8%AD%D8%A8%D9%88%D8%A8%D8%AA%D8%B1%DB%8C%D9%86-%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1%D9%87%D8%A7-%D8%A7%D8%B3%D8%AA/)
 <!-- BLOG-POST-LIST:END -->
 
 
