@@ -17,11 +17,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [نقش حیاتی XPath در وب‌اسکرپینگ](https://cyberuni.ir/blog/%D9%86%D9%82%D8%B4-%D8%AD%DB%8C%D8%A7%D8%AA%DB%8C-xpath-%D8%AF%D8%B1-%D9%88%D8%A8%D8%A7%D8%B3%DA%A9%D8%B1%D9%BE%DB%8C%D9%86%DA%AF/)
 - [دوره آموزش جامع Power BI: تبدیل شدن به یک تحلیل‌گر داده حرفه‌ای](https://cyberuni.ir/blog/%D8%AF%D9%88%D8%B1%D9%87-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AC%D8%A7%D9%85%D8%B9-power-bi-%D8%AA%D8%A8%D8%AF%DB%8C%D9%84-%D8%B4%D8%AF%D9%86-%D8%A8%D9%87-%DB%8C%DA%A9-%D8%AA%D8%AD%D9%84%DB%8C%D9%84%DA%AF%D8%B1-%D8%AF%D8%A7%D8%AF%D9%87-%D8%AD%D8%B1%D9%81%D9%87%D8%A7%DB%8C/)
 - [محدودیت‌های Power BI: چالش‌ها و راهکارها](https://cyberuni.ir/blog/%D9%85%D8%AD%D8%AF%D9%88%D8%AF%DB%8C%D8%AA%D9%87%D8%A7%DB%8C-power-bi-%DA%86%D8%A7%D9%84%D8%B4%D9%87%D8%A7-%D9%88-%D8%B1%D8%A7%D9%87%DA%A9%D8%A7%D8%B1%D9%87%D8%A7/)
 - [چه چیزی Power BI را به قدرتمندترین ابزار تجسم داده تبدیل می‌کند؟](https://cyberuni.ir/blog/%DA%86%D9%87-%DA%86%DB%8C%D8%B2%DB%8C-power-bi-%D8%B1%D8%A7-%D8%A8%D9%87-%D9%82%D8%AF%D8%B1%D8%AA%D9%85%D9%86%D8%AF%D8%AA%D8%B1%DB%8C%D9%86-%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%AA%D8%AC%D8%B3%D9%85-%D8%AF%D8%A7%D8%AF%D9%87-%D8%AA%D8%A8%D8%AF%DB%8C%D9%84-%D9%85%DB%8C%DA%A9%D9%86%D8%AF/)
 - [به کارگیری یادگیری ماشین مبتنی بر رگرسیون در وب اسکرپینگ](https://cyberuni.ir/blog/%D8%A8%D9%87-%DA%A9%D8%A7%D8%B1%DA%AF%DB%8C%D8%B1%DB%8C-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%85%D8%A8%D8%AA%D9%86%DB%8C-%D8%A8%D8%B1-%D8%B1%DA%AF%D8%B1%D8%B3%DB%8C%D9%88%D9%86-%D8%AF%D8%B1-%D9%88%D8%A8-%D8%A7%D8%B3%DA%A9%D8%B1%D9%BE%DB%8C%D9%86%DA%AF/)
-- [نقش Power BI در صنعت تولید: تحول دیجیتال و بهبود عملکرد](https://cyberuni.ir/blog/%D9%86%D9%82%D8%B4-power-bi-%D8%AF%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%AA%D8%AD%D9%88%D9%84-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84-%D9%88-%D8%A8%D9%87%D8%A8%D9%88%D8%AF-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF/)
 <!-- BLOG-POST-LIST:END -->
 
 
