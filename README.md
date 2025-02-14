@@ -17,11 +17,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [برای یادگیری علم داده زبان پایتون بهتر است یا R؟ کدام یک را انتخاب کنیم؟](https://cyberuni.ir/blog/%D8%A8%D8%B1%D8%A7%DB%8C-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D8%B9%D9%84%D9%85-%D8%AF%D8%A7%D8%AF%D9%87-%D8%B2%D8%A8%D8%A7%D9%86-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-%D8%A8%D9%87%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA-%DB%8C%D8%A7-r-%DA%A9%D8%AF%D8%A7%D9%85-%DB%8C%DA%A9-%D8%B1%D8%A7-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8-%DA%A9%D9%86%DB%8C%D9%85/)
 - [انقلاب جستجوی صوتی: استراتژی‌های SEO مبتنی بر داده برای موفقیت در آینده](https://cyberuni.ir/blog/%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8-%D8%AC%D8%B3%D8%AA%D8%AC%D9%88%DB%8C-%D8%B5%D9%88%D8%AA%DB%8C-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%DA%98%DB%8C%D9%87%D8%A7%DB%8C-seo-%D9%85%D8%A8%D8%AA%D9%86%DB%8C-%D8%A8%D8%B1-%D8%AF%D8%A7%D8%AF%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D9%88%D9%81%D9%82%DB%8C%D8%AA-%D8%AF%D8%B1-%D8%A2%DB%8C%D9%86%D8%AF%D9%87/)
 - [نقش هوش مصنوعی در تولید زیرنویس و ترجمه آن به زبان‌های مختلف](https://cyberuni.ir/blog/%D9%86%D9%82%D8%B4-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%AF%D8%B1-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%B2%DB%8C%D8%B1%D9%86%D9%88%DB%8C%D8%B3-%D9%88-%D8%AA%D8%B1%D8%AC%D9%85%D9%87-%D8%A2%D9%86-%D8%A8%D9%87-%D8%B2%D8%A8%D8%A7%D9%86%D9%87%D8%A7%DB%8C-%D9%85%D8%AE%D8%AA%D9%84%D9%81/)
 - [اهمیت GPU در مدل‌های یادگیری ماشین پیشرفته](https://cyberuni.ir/blog/%D8%A7%D9%87%D9%85%DB%8C%D8%AA-gpu-%D8%AF%D8%B1-%D9%85%D8%AF%D9%84%D9%87%D8%A7%DB%8C-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87/)
 - [اهمیت مقابله با سوگیری در سیستم‌های هوش مصنوعی](https://cyberuni.ir/blog/%D8%A7%D9%87%D9%85%DB%8C%D8%AA-%D9%85%D9%82%D8%A7%D8%A8%D9%84%D9%87-%D8%A8%D8%A7-%D8%B3%D9%88%DA%AF%DB%8C%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85%D9%87%D8%A7%DB%8C-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C/)
-- [اهمیت داده‌کاوی و کاربرد پایتون در استخراج داده‌ها](https://cyberuni.ir/blog/%D8%A7%D9%87%D9%85%DB%8C%D8%AA-%D8%AF%D8%A7%D8%AF%D9%87%DA%A9%D8%A7%D9%88%DB%8C-%D9%88-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-%D8%AF%D8%B1-%D8%A7%D8%B3%D8%AA%D8%AE%D8%B1%D8%A7%D8%AC-%D8%AF%D8%A7%D8%AF%D9%87%D9%87%D8%A7/)
 <!-- BLOG-POST-LIST:END -->
 
 
