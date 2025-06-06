@@ -17,11 +17,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [واتساپ هوش مصنوعی را به میدان می آورد!](https://cyberuni.ir/blog/%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D9%BE-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%B1%D8%A7-%D8%A8%D9%87-%D9%85%DB%8C%D8%AF%D8%A7%D9%86-%D9%85%DB%8C-%D8%A2%D9%88%D8%B1%D8%AF/)
 - [مدرسه های خُرد، انقلاب در آموزش؟](https://cyberuni.ir/blog/%D9%85%D8%AF%D8%B1%D8%B3%D9%87-%D9%87%D8%A7%DB%8C-%D8%AE%D8%B1%D8%AF-%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8-%D8%AF%D8%B1-%D8%A2%D9%85%D9%88%D8%B2%D8%B4/)
 - [پشت پرده کنفرانس مرموز پالانتیر: نگاهی عمیق به دنیای داده‌ها و قدرت](https://cyberuni.ir/blog/%D9%BE%D8%B4%D8%AA-%D9%BE%D8%B1%D8%AF%D9%87-%DA%A9%D9%86%D9%81%D8%B1%D8%A7%D9%86%D8%B3-%D9%85%D8%B1%D9%85%D9%88%D8%B2-%D9%BE%D8%A7%D9%84%D8%A7%D9%86%D8%AA%DB%8C%D8%B1-%D9%86%DA%AF%D8%A7%D9%87%DB%8C-%D8%B9%D9%85%DB%8C%D9%82-%D8%A8%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AF%D9%87%D9%87%D8%A7-%D9%88-%D9%82%D8%AF%D8%B1%D8%AA/)
 - [سیستم وای فای مش ایرو &lpar;Eero&rpar;: انقلاب در اینترنت بی‌سیم خانگی](https://cyberuni.ir/blog/%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%D9%88%D8%A7%DB%8C-%D9%81%D8%A7%DB%8C-%D9%85%D8%B4-%D8%A7%DB%8C%D8%B1%D9%88-eero-%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8-%D8%AF%D8%B1-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA-%D8%A8%DB%8C%D8%B3%DB%8C%D9%85-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C/)
 - [معرفی مجموعه سه‌گانه سیلو؛ داستانی از زیر خاک و فراتر از حقیقت](https://cyberuni.ir/blog/%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%B3%D9%87%DA%AF%D8%A7%D9%86%D9%87-%D8%B3%DB%8C%D9%84%D9%88-%D8%AF%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%DB%8C-%D8%A7%D8%B2-%D8%B2%DB%8C%D8%B1-%D8%AE%D8%A7%DA%A9-%D9%88-%D9%81%D8%B1%D8%A7%D8%AA%D8%B1-%D8%A7%D8%B2-%D8%AD%D9%82%DB%8C%D9%82%D8%AA/)
-- [آموزش نوشتن کوئری در MySQL: قسمت اول](https://cyberuni.ir/blog/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%86%D9%88%D8%B4%D8%AA%D9%86-%DA%A9%D9%88%D8%A6%D8%B1%DB%8C-%D8%AF%D8%B1-mysql-%D9%82%D8%B3%D9%85%D8%AA-%D8%A7%D9%88%D9%84/)
 <!-- BLOG-POST-LIST:END -->
 
 
