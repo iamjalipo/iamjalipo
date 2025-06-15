@@ -17,11 +17,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [گربه کش حرفه ای می شود؟ بررسی جامع آموزش، تکنیک ها و چالش ها](https://cyberuni.ir/blog/%DA%AF%D8%B1%D8%A8%D9%87-%DA%A9%D8%B4-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF-%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D8%AC%D8%A7%D9%85%D8%B9-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AA%DA%A9%D9%86%DB%8C%DA%A9-%D9%87%D8%A7-%D9%88-%DA%86%D8%A7%D9%84%D8%B4-%D9%87%D8%A7/)
+- [عجب ستاره‌ی عجیبی! سفری به دنیای شگفت‌انگیز ستاره‌ها](https://cyberuni.ir/blog/%D8%B9%D8%AC%D8%A8-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87%DB%8C-%D8%B9%D8%AC%DB%8C%D8%A8%DB%8C-%D8%B3%D9%81%D8%B1%DB%8C-%D8%A8%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%B4%DA%AF%D9%81%D8%AA%D8%A7%D9%86%DA%AF%DB%8C%D8%B2-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87%D9%87%D8%A7/)
+- [آیا به اطلاعات خلاصه گوگل اعتماد دارید؟ بررسی دقیق و موشکافانه](https://cyberuni.ir/blog/%D8%A2%DB%8C%D8%A7-%D8%A8%D9%87-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%DA%AF%D9%88%DA%AF%D9%84-%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%D8%AF%D8%A7%D8%B1%DB%8C%D8%AF-%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D8%AF%D9%82%DB%8C%D9%82-%D9%88-%D9%85%D9%88%D8%B4%DA%A9%D8%A7%D9%81%D8%A7%D9%86%D9%87/)
 - [شگفتی‌های فضایی چین در راه است!](https://cyberuni.ir/blog/%D8%B4%DA%AF%D9%81%D8%AA%DB%8C%D9%87%D8%A7%DB%8C-%D9%81%D8%B6%D8%A7%DB%8C%DB%8C-%DA%86%DB%8C%D9%86-%D8%AF%D8%B1-%D8%B1%D8%A7%D9%87-%D8%A7%D8%B3%D8%AA/)
 - [آسمان تشنه، بلعیدن زمین: مروری بر بحران آب در ایران](https://cyberuni.ir/blog/%D8%A2%D8%B3%D9%85%D8%A7%D9%86-%D8%AA%D8%B4%D9%86%D9%87-%D8%A8%D9%84%D8%B9%DB%8C%D8%AF%D9%86-%D8%B2%D9%85%DB%8C%D9%86-%D9%85%D8%B1%D9%88%D8%B1%DB%8C-%D8%A8%D8%B1-%D8%A8%D8%AD%D8%B1%D8%A7%D9%86-%D8%A2%D8%A8-%D8%AF%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86/)
-- [هزینه های سرسام آور هوش مصنوعی: بررسی دقیق و راهکارهای عملی](https://cyberuni.ir/blog/%D9%87%D8%B2%DB%8C%D9%86%D9%87-%D9%87%D8%A7%DB%8C-%D8%B3%D8%B1%D8%B3%D8%A7%D9%85-%D8%A2%D9%88%D8%B1-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D8%AF%D9%82%DB%8C%D9%82-%D9%88-%D8%B1%D8%A7%D9%87%DA%A9%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%B9%D9%85%D9%84%DB%8C/)
-- [آغاز فاجعه کیهانی؟ نگاهی ژرف به تهدیدهای فراروی کیهان و زمین](https://cyberuni.ir/blog/%D8%A2%D8%BA%D8%A7%D8%B2-%D9%81%D8%A7%D8%AC%D8%B9%D9%87-%DA%A9%DB%8C%D9%87%D8%A7%D9%86%DB%8C-%D9%86%DA%AF%D8%A7%D9%87%DB%8C-%DA%98%D8%B1%D9%81-%D8%A8%D9%87-%D8%AA%D9%87%D8%AF%DB%8C%D8%AF%D9%87%D8%A7%DB%8C-%D9%81%D8%B1%D8%A7%D8%B1%D9%88%DB%8C-%DA%A9%DB%8C%D9%87%D8%A7%D9%86-%D9%88-%D8%B2%D9%85%DB%8C%D9%86/)
-- [ازدحام ویکی پدیا بر سر خلاصه سازی هوش مصنوعی](https://cyberuni.ir/blog/%D8%A7%D8%B2%D8%AF%D8%AD%D8%A7%D9%85-%D9%88%DB%8C%DA%A9%DB%8C-%D9%BE%D8%AF%DB%8C%D8%A7-%D8%A8%D8%B1-%D8%B3%D8%B1-%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D8%B3%D8%A7%D8%B2%DB%8C-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C/)
 <!-- BLOG-POST-LIST:END -->
 
 
