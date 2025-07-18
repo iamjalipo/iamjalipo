@@ -17,11 +17,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [آغاز یک کشف فضایی: رازهای آتشفشانی مریخ فاش شد!](https://cyberuni.ir/blog/%D8%A2%D8%BA%D8%A7%D8%B2-%DB%8C%DA%A9-%DA%A9%D8%B4%D9%81-%D9%81%D8%B6%D8%A7%DB%8C%DB%8C-%D8%B1%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A2%D8%AA%D8%B4%D9%81%D8%B4%D8%A7%D9%86%DB%8C-%D9%85%D8%B1%DB%8C%D8%AE-%D9%81%D8%A7%D8%B4-%D8%B4%D8%AF/)
+- [سگ های آموزش دیده، تشخیص بیماری پارکینسون با دقت 98 درصدی!](https://cyberuni.ir/blog/%D8%B3%DA%AF-%D9%87%D8%A7%DB%8C-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AF%DB%8C%D8%AF%D9%87-%D8%AA%D8%B4%D8%AE%DB%8C%D8%B5-%D8%A8%DB%8C%D9%85%D8%A7%D8%B1%DB%8C-%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%D8%B3%D9%88%D9%86-%D8%A8%D8%A7-%D8%AF%D9%82%D8%AA-98-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C/)
 - [زیر سوال رفتن امنیت رمزارزها؟ بررسی عمیق چالش‌ها و راهکارهای حفاظت](https://cyberuni.ir/blog/%D8%B2%DB%8C%D8%B1-%D8%B3%D9%88%D8%A7%D9%84-%D8%B1%D9%81%D8%AA%D9%86-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D8%B1%D9%85%D8%B2%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D8%B9%D9%85%DB%8C%D9%82-%DA%86%D8%A7%D9%84%D8%B4%D9%87%D8%A7-%D9%88-%D8%B1%D8%A7%D9%87%DA%A9%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%AD%D9%81%D8%A7%D8%B8%D8%AA/)
 - [هوش مصنوعی گوگل در خدمت سلامت: انقلاب در بهداشت و درمان](https://cyberuni.ir/blog/%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%DA%AF%D9%88%DA%AF%D9%84-%D8%AF%D8%B1-%D8%AE%D8%AF%D9%85%D8%AA-%D8%B3%D9%84%D8%A7%D9%85%D8%AA-%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8-%D8%AF%D8%B1-%D8%A8%D9%87%D8%AF%D8%A7%D8%B4%D8%AA-%D9%88-%D8%AF%D8%B1%D9%85%D8%A7%D9%86/)
 - [ایستگاه فضایی تسلا در راه است!](https://cyberuni.ir/blog/%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%81%D8%B6%D8%A7%DB%8C%DB%8C-%D8%AA%D8%B3%D9%84%D8%A7-%D8%AF%D8%B1-%D8%B1%D8%A7%D9%87-%D8%A7%D8%B3%D8%AA/)
-- [آیا نهنگ‌های قاتل به کمک انسان‌ها می‌آیند؟ بررسی تعاملات پیچیده اورکا و انسان](https://cyberuni.ir/blog/%D8%A2%DB%8C%D8%A7-%D9%86%D9%87%D9%86%DA%AF%D9%87%D8%A7%DB%8C-%D9%82%D8%A7%D8%AA%D9%84-%D8%A8%D9%87-%DA%A9%D9%85%DA%A9-%D8%A7%D9%86%D8%B3%D8%A7%D9%86%D9%87%D8%A7-%D9%85%DB%8C%D8%A2%DB%8C%D9%86%D8%AF-%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D8%AA%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D9%BE%DB%8C%DA%86%DB%8C%D8%AF%D9%87-%D8%A7%D9%88%D8%B1%DA%A9%D8%A7-%D9%88-%D8%A7%D9%86%D8%B3%D8%A7%D9%86/)
-- [یک جهش کوانتومی باورنکردنی!](https://cyberuni.ir/blog/%DB%8C%DA%A9-%D8%AC%D9%87%D8%B4-%DA%A9%D9%88%D8%A7%D9%86%D8%AA%D9%88%D9%85%DB%8C-%D8%A8%D8%A7%D9%88%D8%B1%D9%86%DA%A9%D8%B1%D8%AF%D9%86%DB%8C/)
 <!-- BLOG-POST-LIST:END -->
 
 
