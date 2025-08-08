@@ -17,11 +17,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [معافیت اپل از تحریم تراشه 100 میلیارد دلاری: بررسی دقیق و پیامدها](https://cyberuni.ir/blog/%D9%85%D8%B9%D8%A7%D9%81%DB%8C%D8%AA-%D8%A7%D9%BE%D9%84-%D8%A7%D8%B2-%D8%AA%D8%AD%D8%B1%DB%8C%D9%85-%D8%AA%D8%B1%D8%A7%D8%B4%D9%87-100-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D8%AF%D9%82%DB%8C%D9%82-%D9%88-%D9%BE%DB%8C%D8%A7%D9%85%D8%AF%D9%87%D8%A7/)
+- [هوش مصنوعی و کابوس اتمی: تقاطع یک تهدید](https://cyberuni.ir/blog/%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D9%88-%DA%A9%D8%A7%D8%A8%D9%88%D8%B3-%D8%A7%D8%AA%D9%85%DB%8C-%D8%AA%D9%82%D8%A7%D8%B7%D8%B9-%DB%8C%DA%A9-%D8%AA%D9%87%D8%AF%DB%8C%D8%AF/)
 - [پایان تمدن بشری؟ فاجعه‌ای محتمل در انتظار است!](https://cyberuni.ir/blog/%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%AA%D9%85%D8%AF%D9%86-%D8%A8%D8%B4%D8%B1%DB%8C-%D9%81%D8%A7%D8%AC%D8%B9%D9%87%D8%A7%DB%8C-%D9%85%D8%AD%D8%AA%D9%85%D9%84-%D8%AF%D8%B1-%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1-%D8%A7%D8%B3%D8%AA/)
 - [به‌زودی فاجعه‌ای در راه است؟ انتشار کربن باستانی!](https://cyberuni.ir/blog/%D8%A8%D9%87%D8%B2%D9%88%D8%AF%DB%8C-%D9%81%D8%A7%D8%AC%D8%B9%D9%87%D8%A7%DB%8C-%D8%AF%D8%B1-%D8%B1%D8%A7%D9%87-%D8%A7%D8%B3%D8%AA-%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1-%DA%A9%D8%B1%D8%A8%D9%86-%D8%A8%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%DB%8C/)
 - [شگفت‌انگیزترین سدان برقی چینی از راه رسید!](https://cyberuni.ir/blog/%D8%B4%DA%AF%D9%81%D8%AA%D8%A7%D9%86%DA%AF%DB%8C%D8%B2%D8%AA%D8%B1%DB%8C%D9%86-%D8%B3%D8%AF%D8%A7%D9%86-%D8%A8%D8%B1%D9%82%DB%8C-%DA%86%DB%8C%D9%86%DB%8C-%D8%A7%D8%B2-%D8%B1%D8%A7%D9%87-%D8%B1%D8%B3%DB%8C%D8%AF/)
-- [آیا جهان‌های موازی واقعیت دارند؟ کاوشی ژرف در قلمرو کیهان](https://cyberuni.ir/blog/%D8%A2%DB%8C%D8%A7-%D8%AC%D9%87%D8%A7%D9%86%D9%87%D8%A7%DB%8C-%D9%85%D9%88%D8%A7%D8%B2%DB%8C-%D9%88%D8%A7%D9%82%D8%B9%DB%8C%D8%AA-%D8%AF%D8%A7%D8%B1%D9%86%D8%AF-%DA%A9%D8%A7%D9%88%D8%B4%DB%8C-%DA%98%D8%B1%D9%81-%D8%AF%D8%B1-%D9%82%D9%84%D9%85%D8%B1%D9%88-%DA%A9%DB%8C%D9%87%D8%A7%D9%86/)
-- [رسوایی هوش مصنوعی: گزارشی که دولت بایدن مخفی کرد!](https://cyberuni.ir/blog/%D8%B1%D8%B3%D9%88%D8%A7%DB%8C%DB%8C-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4%DB%8C-%DA%A9%D9%87-%D8%AF%D9%88%D9%84%D8%AA-%D8%A8%D8%A7%DB%8C%D8%AF%D9%86-%D9%85%D8%AE%D9%81%DB%8C-%DA%A9%D8%B1%D8%AF/)
 <!-- BLOG-POST-LIST:END -->
 
 
