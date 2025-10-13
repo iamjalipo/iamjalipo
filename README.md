@@ -17,11 +17,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [⚠️ حمله جدید هکرها: سرقت مستقیم حقوق کارمندان 💰](https://cyberuni.ir/blog/%D8%AD%D9%85%D9%84%D9%87-%D8%AC%D8%AF%DB%8C%D8%AF-%D9%87%DA%A9%D8%B1%D9%87%D8%A7-%D8%B3%D8%B1%D9%82%D8%AA-%D9%85%D8%B3%D8%AA%D9%82%DB%8C%D9%85-%D8%AD%D9%82%D9%88%D9%82-%DA%A9%D8%A7%D8%B1%D9%85%D9%86%D8%AF%D8%A7%D9%86/)
+- [🔥 Intel Panther Lake: انقلابی در پردازنده‌ها؟ 🧐](https://cyberuni.ir/blog/intel-panther-lake-%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8%DB%8C-%D8%AF%D8%B1-%D9%BE%D8%B1%D8%AF%D8%A7%D8%B2%D9%86%D8%AF%D9%87%D9%87%D8%A7/)
 - [مهاجرت محقق ارشد TML به متا: رقابت بزرگ هوش مصنوعی ادامه دارد 🤖](https://cyberuni.ir/blog/%D9%85%D9%87%D8%A7%D8%AC%D8%B1%D8%AA-%D9%85%D8%AD%D9%82%D9%82-%D8%A7%D8%B1%D8%B4%D8%AF-tml-%D8%A8%D9%87-%D9%85%D8%AA%D8%A7-%D8%B1%D9%82%D8%A7%D8%A8%D8%AA-%D8%A8%D8%B2%D8%B1%DA%AF-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%A7%D8%AF%D8%A7%D9%85%D9%87-%D8%AF%D8%A7%D8%B1%D8%AF/)
 - [چین Qualcomm را هدف قرار داد! 💥 جنگ تجاری آمریکا و چین](https://cyberuni.ir/blog/%DA%86%DB%8C%D9%86-qualcomm-%D8%B1%D8%A7-%D9%87%D8%AF%D9%81-%D9%82%D8%B1%D8%A7%D8%B1-%D8%AF%D8%A7%D8%AF-%D8%AC%D9%86%DA%AF-%D8%AA%D8%AC%D8%A7%D8%B1%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%88-%DA%86%DB%8C%D9%86/)
 - [🚨 بدافزارها در VPN رایگان! 🛡️ تهدید جدید امنیتی](https://cyberuni.ir/blog/%D8%A8%D8%AF%D8%A7%D9%81%D8%B2%D8%A7%D8%B1%D9%87%D8%A7-%D8%AF%D8%B1-vpn-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%AA%D9%87%D8%AF%DB%8C%D8%AF-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%A7%D9%85%D9%86%DB%8C%D8%AA%DB%8C/)
-- [کشف اقیانوس باستانی در مریخ! 🚀🌎](https://cyberuni.ir/blog/%DA%A9%D8%B4%D9%81-%D8%A7%D9%82%DB%8C%D8%A7%D9%86%D9%88%D8%B3-%D8%A8%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D9%85%D8%B1%DB%8C%D8%AE/)
-- [🚀 سورا رکورد چت‌جی‌پی‌تی را شکست! نگاهی به پدیده‌ی جدید هوش مصنوعی 🤖](https://cyberuni.ir/blog/%D8%B3%D9%88%D8%B1%D8%A7-%D8%B1%DA%A9%D9%88%D8%B1%D8%AF-%DA%86%D8%AA%D8%AC%DB%8C%D9%BE%DB%8C%D8%AA%DB%8C-%D8%B1%D8%A7-%D8%B4%DA%A9%D8%B3%D8%AA-%D9%86%DA%AF%D8%A7%D9%87%DB%8C-%D8%A8%D9%87-%D9%BE%D8%AF%DB%8C%D8%AF%D9%87%DB%8C-%D8%AC%D8%AF%DB%8C%D8%AF-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C/)
 <!-- BLOG-POST-LIST:END -->
 
 
