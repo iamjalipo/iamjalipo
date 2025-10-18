@@ -17,11 +17,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [هوش مصنوعی فیسبوک، رفیق جدید شما در ویرایش عکس و مدیریت گالری!](https://cyberuni.ir/blog/%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D9%81%DB%8C%D8%B3%D8%A8%D9%88%DA%A9-%D8%B1%D9%81%DB%8C%D9%82-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B4%D9%85%D8%A7-%D8%AF%D8%B1-%D9%88%DB%8C%D8%B1%D8%A7%DB%8C%D8%B4-%D8%B9%DA%A9%D8%B3-%D9%88-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%DA%AF%D8%A7%D9%84%D8%B1%DB%8C/)
 - [‏🔥Nvidia DGX Spark: هوش مصنوعی قدرتمند روی میز کار شما! 💻](https://cyberuni.ir/blog/nvidia-dgx-spark-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D9%82%D8%AF%D8%B1%D8%AA%D9%85%D9%86%D8%AF-%D8%B1%D9%88%DB%8C-%D9%85%DB%8C%D8%B2-%DA%A9%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7/)
 - [تاکسی‌های خودران Waymo وارد لندن می‌شوند! 🇬🇧🚕](https://cyberuni.ir/blog/%D8%AA%D8%A7%DA%A9%D8%B3%DB%8C%D9%87%D8%A7%DB%8C-%D8%AE%D9%88%D8%AF%D8%B1%D8%A7%D9%86-waymo-%D9%88%D8%A7%D8%B1%D8%AF-%D9%84%D9%86%D8%AF%D9%86-%D9%85%DB%8C%D8%B4%D9%88%D9%86%D8%AF/)
 - [کشف مکانیسم ضد پیری سلول: تحولی در علم پزشکی 🔬🧬](https://cyberuni.ir/blog/%DA%A9%D8%B4%D9%81-%D9%85%DA%A9%D8%A7%D9%86%DB%8C%D8%B3%D9%85-%D8%B6%D8%AF-%D9%BE%DB%8C%D8%B1%DB%8C-%D8%B3%D9%84%D9%88%D9%84-%D8%AA%D8%AD%D9%88%D9%84%DB%8C-%D8%AF%D8%B1-%D8%B9%D9%84%D9%85-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C/)
 - [Dfinity Caffeine: انقلابی در ساخت اپلیکیشن با هوش مصنوعی از طریق زبان طبیعی](https://cyberuni.ir/blog/dfinity-caffeine-%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8%DB%8C-%D8%AF%D8%B1-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A7%D9%BE%D9%84%DB%8C%DA%A9%DB%8C%D8%B4%D9%86-%D8%A8%D8%A7-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%A7%D8%B2-%D8%B7%D8%B1%DB%8C%D9%82-%D8%B2%D8%A8%D8%A7%D9%86-%D8%B7%D8%A8%DB%8C%D8%B9%DB%8C/)
-- [هشدار! ارتباط نوشیدنی‌های رژیمی با بیماری کبد: نگاهی عمیق به مضرات احتمالی](https://cyberuni.ir/blog/%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D8%A7%D8%B1%D8%AA%D8%A8%D8%A7%D8%B7-%D9%86%D9%88%D8%B4%DB%8C%D8%AF%D9%86%DB%8C%D9%87%D8%A7%DB%8C-%D8%B1%DA%98%DB%8C%D9%85%DB%8C-%D8%A8%D8%A7-%D8%A8%DB%8C%D9%85%D8%A7%D8%B1%DB%8C-%DA%A9%D8%A8%D8%AF-%D9%86%DA%AF%D8%A7%D9%87%DB%8C-%D8%B9%D9%85%DB%8C%D9%82-%D8%A8%D9%87-%D9%85%D8%B6%D8%B1%D8%A7%D8%AA-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84%DB%8C/)
 <!-- BLOG-POST-LIST:END -->
 
 
