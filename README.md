@@ -17,11 +17,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [مرورگر اطلس OpenAI: آیا رقیب قدرتمند Chrome از راه می‌رسد؟](https://cyberuni.ir/blog/%D9%85%D8%B1%D9%88%D8%B1%DA%AF%D8%B1-%D8%A7%D8%B7%D9%84%D8%B3-openai-%D8%A2%DB%8C%D8%A7-%D8%B1%D9%82%DB%8C%D8%A8-%D9%82%D8%AF%D8%B1%D8%AA%D9%85%D9%86%D8%AF-chrome-%D8%A7%D8%B2-%D8%B1%D8%A7%D9%87-%D9%85%DB%8C%D8%B1%D8%B3%D8%AF/)
 - [آلودگی هوا و افزایش خطر پارکینسون: هشدار جدی 🧠](https://cyberuni.ir/blog/%D8%A2%D9%84%D9%88%D8%AF%DA%AF%DB%8C-%D9%87%D9%88%D8%A7-%D9%88-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%AE%D8%B7%D8%B1-%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%D8%B3%D9%88%D9%86-%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D8%AC%D8%AF%DB%8C/)
 - [پایان پروژه کوکی‌های گوگل: دگرگونی‌های اساسی در چشم‌انداز تبلیغات 🍪](https://cyberuni.ir/blog/%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%DA%A9%D9%88%DA%A9%DB%8C%D9%87%D8%A7%DB%8C-%DA%AF%D9%88%DA%AF%D9%84-%D8%AF%DA%AF%D8%B1%DA%AF%D9%88%D9%86%DB%8C%D9%87%D8%A7%DB%8C-%D8%A7%D8%B3%D8%A7%D8%B3%DB%8C-%D8%AF%D8%B1-%DA%86%D8%B4%D9%85%D8%A7%D9%86%D8%AF%D8%A7%D8%B2-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA/)
 - [اینترنت ایران در سراشیبی: مروری بر چالش‌های سرعت و کیفیت خدمات](https://cyberuni.ir/blog/%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%B3%D8%B1%D8%A7%D8%B4%DB%8C%D8%A8%DB%8C-%D9%85%D8%B1%D9%88%D8%B1%DB%8C-%D8%A8%D8%B1-%DA%86%D8%A7%D9%84%D8%B4%D9%87%D8%A7%DB%8C-%D8%B3%D8%B1%D8%B9%D8%AA-%D9%88-%DA%A9%DB%8C%D9%81%DB%8C%D8%AA-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA/)
 - [داده‌های ماشینی و استراتژی‌های هوش مصنوعی: هشدار سیسکو ⚠️](https://cyberuni.ir/blog/%D8%AF%D8%A7%D8%AF%D9%87%D9%87%D8%A7%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86%DB%8C-%D9%88-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%DA%98%DB%8C%D9%87%D8%A7%DB%8C-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D8%B3%DB%8C%D8%B3%DA%A9%D9%88/)
-- [‏⚡️ کاتالیزور طلایی جدید، رکوردها را در شیمی سبز شکست! 🧪](https://cyberuni.ir/blog/%DA%A9%D8%A7%D8%AA%D8%A7%D9%84%DB%8C%D8%B2%D9%88%D8%B1-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B1%DA%A9%D9%88%D8%B1%D8%AF%D9%87%D8%A7-%D8%B1%D8%A7-%D8%AF%D8%B1-%D8%B4%DB%8C%D9%85%DB%8C-%D8%B3%D8%A8%D8%B2-%D8%B4%DA%A9%D8%B3%D8%AA/)
 <!-- BLOG-POST-LIST:END -->
 
 
