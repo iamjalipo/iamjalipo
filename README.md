@@ -29,7 +29,7 @@
 
 ## Latest Activity <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="80"> 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Tea-Rex V 0.1](https://github.com/iamjalipo/Video-Transcription-To-Perisan/releases/tag/Pre-Release) in [iamjalipo/Video-Transcription-To-Perisan](https://github.com/iamjalipo/Video-Transcription-To-Perisan)
+1. 🚀 Published release [v0.1.0 - Initial Release: The Hunt Begins](https://github.com/iamjalipo/django-nplus1-hunter/releases/tag/v0.1.0) in [iamjalipo/django-nplus1-hunter](https://github.com/iamjalipo/django-nplus1-hunter)
 2. ❗️ Opened issue [#407](https://github.com/benjaminsampica/benjaminsampica/issues/407) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
 <!--END_SECTION:activity-->
 
