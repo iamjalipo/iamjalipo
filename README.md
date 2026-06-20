@@ -17,11 +17,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔍 ۲۰۲۵ گوگل: نگاهی موشکافانه به داغ‌ترین موضوعات جستجو](https://cyberuni.ir/blog/%DB%B2%DB%B0%DB%B2%DB%B5-%DA%AF%D9%88%DA%AF%D9%84-%D9%86%DA%AF%D8%A7%D9%87%DB%8C-%D9%85%D9%88%D8%B4%DA%A9%D8%A7%D9%81%D8%A7%D9%86%D9%87-%D8%A8%D9%87-%D8%AF%D8%A7%D8%BA%D8%AA%D8%B1%DB%8C%D9%86-%D9%85%D9%88%D8%B6%D9%88%D8%B9%D8%A7%D8%AA-%D8%AC%D8%B3%D8%AA%D8%AC%D9%88/)
-- [آب پرتقال: قهرمان پنهان سلامت ژن‌ها 🍊🔬](https://cyberuni.ir/blog/%D8%A2%D8%A8-%D9%BE%D8%B1%D8%AA%D9%82%D8%A7%D9%84-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D9%BE%D9%86%D9%87%D8%A7%D9%86-%D8%B3%D9%84%D8%A7%D9%85%D8%AA-%DA%98%D9%86%D9%87%D8%A7/)
-- [ربات‌های عضلانی ۳۰ برابر سریع‌تر با الهام از تاندون‌های طبیعی 🚀🤖](https://cyberuni.ir/blog/%D8%B1%D8%A8%D8%A7%D8%AA%D9%87%D8%A7%DB%8C-%D8%B9%D8%B6%D9%84%D8%A7%D9%86%DB%8C-%DB%B3%DB%B0-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D8%B3%D8%B1%DB%8C%D8%B9%D8%AA%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%84%D9%87%D8%A7%D9%85-%D8%A7%D8%B2-%D8%AA%D8%A7%D9%86%D8%AF%D9%88%D9%86%D9%87%D8%A7%DB%8C-%D8%B7%D8%A8%DB%8C%D8%B9%DB%8C/)
-- [هواوی رسماً از اولین حیوان خانگی مبتنی بر هوش مصنوعی رونمایی کرد: گامی نوآورانه در دنیای تکنولوژی](https://cyberuni.ir/blog/%D9%87%D9%88%D8%A7%D9%88%DB%8C-%D8%B1%D8%B3%D9%85%D8%A7-%D8%A7%D8%B2-%D8%A7%D9%88%D9%84%DB%8C%D9%86-%D8%AD%DB%8C%D9%88%D8%A7%D9%86-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D9%85%D8%A8%D8%AA%D9%86%DB%8C-%D8%A8%D8%B1-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%B1%D9%88%D9%86%D9%85%D8%A7%DB%8C%DB%8C-%DA%A9%D8%B1%D8%AF-%DA%AF%D8%A7%D9%85%DB%8C-%D9%86%D9%88%D8%A2%D9%88%D8%B1%D8%A7%D9%86%D9%87-%D8%AF%D8%B1-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%AA%DA%A9%D9%86%D9%88%D9%84%D9%88%DA%98%DB%8C/)
-- [اپل مسئولیت تایید سن در اپ استور را بر عهده گرفت: گامی مهم در جهت امنیت و حریم خصوصی کاربران](https://cyberuni.ir/blog/%D8%A7%D9%BE%D9%84-%D9%85%D8%B3%D8%A6%D9%88%D9%84%DB%8C%D8%AA-%D8%AA%D8%A7%DB%8C%DB%8C%D8%AF-%D8%B3%D9%86-%D8%AF%D8%B1-%D8%A7%D9%BE-%D8%A7%D8%B3%D8%AA%D9%88%D8%B1-%D8%B1%D8%A7-%D8%A8%D8%B1-%D8%B9%D9%87%D8%AF%D9%87-%DA%AF%D8%B1%D9%81%D8%AA-%DA%AF%D8%A7%D9%85%DB%8C-%D9%85%D9%87%D9%85-%D8%AF%D8%B1-%D8%AC%D9%87%D8%AA-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D9%88-%D8%AD%D8%B1%DB%8C%D9%85-%D8%AE%D8%B5%D9%88%D8%B5%DB%8C-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%A7%D9%86/)
+- [بایدها و نبایدهای استایل با هودی؛ چطور شلخته به نظر نرسیم؟](http://regalapp.ir/mag/style-for-hoodie/)
+- [راهنمای جامع ست کردن کت طوسی مردانه؛ از استایل رسمی تا کژوال](http://regalapp.ir/mag/style-mens-grey-blazer/)
+- [کمد لباس مجازی و پیشنهاد استایل هوشمند](http://regalapp.ir/mag/virtual-dress-closet-digital-ai-suggestion-with-ai/)
+- [راهنمای ست لباس مناسب برای قرار کاری و مصاحبه شغلی خانم‌ها](http://regalapp.ir/mag/how-to-set-for-work-women/)
+- [ست لباس برای دیت اول؛ راهنمای انتخاب تیپ دخترانه جذاب برای قرار اول](http://regalapp.ir/mag/first-date-outfit-for-women/)
 <!-- BLOG-POST-LIST:END -->
 
 
