@@ -17,11 +17,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [استایل اولد مانی &lpar;Old Money&rpar; و وینتیج مردانه؛ چطور اصالت را بپوشیم؟](http://regalapp.ir/mag/men-old-money-vintage-style/)
 - [پادشاهان خوش‌تیپی در هوای گرم؛ اصول لایه‌بندی در تیپ کلاسیک مردانه تابستانی](http://regalapp.ir/mag/mens-summer-classic-style/)
 - [بایدها و نبایدهای استایل با هودی؛ چطور شلخته به نظر نرسیم؟](http://regalapp.ir/mag/style-for-hoodie/)
 - [راهنمای جامع ست کردن کت طوسی مردانه؛ از استایل رسمی تا کژوال](http://regalapp.ir/mag/style-mens-grey-blazer/)
 - [کمد لباس مجازی و پیشنهاد استایل هوشمند](http://regalapp.ir/mag/virtual-dress-closet-digital-ai-suggestion-with-ai/)
-- [راهنمای ست لباس مناسب برای قرار کاری و مصاحبه شغلی خانم‌ها](http://regalapp.ir/mag/how-to-set-for-work-women/)
 <!-- BLOG-POST-LIST:END -->
 
 
