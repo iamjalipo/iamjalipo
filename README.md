@@ -17,11 +17,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [پادشاهان خوش‌تیپی در هوای گرم؛ اصول لایه‌بندی در تیپ کلاسیک مردانه تابستانی](http://regalapp.ir/mag/mens-summer-classic-style/)
 - [بایدها و نبایدهای استایل با هودی؛ چطور شلخته به نظر نرسیم؟](http://regalapp.ir/mag/style-for-hoodie/)
 - [راهنمای جامع ست کردن کت طوسی مردانه؛ از استایل رسمی تا کژوال](http://regalapp.ir/mag/style-mens-grey-blazer/)
 - [کمد لباس مجازی و پیشنهاد استایل هوشمند](http://regalapp.ir/mag/virtual-dress-closet-digital-ai-suggestion-with-ai/)
 - [راهنمای ست لباس مناسب برای قرار کاری و مصاحبه شغلی خانم‌ها](http://regalapp.ir/mag/how-to-set-for-work-women/)
-- [ست لباس برای دیت اول؛ راهنمای انتخاب تیپ دخترانه جذاب برای قرار اول](http://regalapp.ir/mag/first-date-outfit-for-women/)
 <!-- BLOG-POST-LIST:END -->
 
 
