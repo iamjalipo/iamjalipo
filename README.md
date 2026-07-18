@@ -17,11 +17,8 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [به عنوان مهمان در عروسی چی بپوشیم؟ + ۱۰ قانون طلایی استایل مجلسی](http://regalapp.ir/mag/wedding-guest-dress/)
-- [استایل اولد مانی &lpar;Old Money&rpar; و وینتیج مردانه؛ چطور اصالت را بپوشیم؟](http://regalapp.ir/mag/men-old-money-vintage-style/)
-- [پادشاهان خوش‌تیپی در هوای گرم؛ اصول لایه‌بندی در تیپ کلاسیک مردانه تابستانی](http://regalapp.ir/mag/mens-summer-classic-style/)
-- [بایدها و نبایدهای استایل با هودی؛ چطور شلخته به نظر نرسیم؟](http://regalapp.ir/mag/style-for-hoodie/)
-- [راهنمای جامع ست کردن کت طوسی مردانه؛ از استایل رسمی تا کژوال](http://regalapp.ir/mag/style-mens-grey-blazer/)
+- [Beyond the Vibe Check: Architecting Production-Grade Evaluation Frameworks for LLMs](http://radicaldevs.tech/isi/beyond-the-vibe-check-architecting-production-grade-evaluation-frameworks-for-llms/)
+- [THE HOSPITALITY WARS: Airbnb vs. The Hotel Empire &lpar;World Cup 2026 Edition&rpar;](http://radicaldevs.tech/isi/the-hospitality-wars-airbnb-vs-the-hotel-empire-world-cup-2026-edition/)
 <!-- BLOG-POST-LIST:END -->
 
 
