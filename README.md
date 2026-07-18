@@ -55,8 +55,6 @@ Total Prize: 2,500,000 $FGC Token. The rules are as follows:
 
   <h3 align="left">Languages and Tools:</h3>
 
-  I work across the full stack and in machine learning / analytics. My strongest skills are building production web applications with Django (backend), Redis + Celery (caching & background tasks), WebSockets (real‑time features), and frontend layout with HTML/CSS. I also use PyTorch for ML experiments and Power BI / Apache Superset for analytics and dashboards. I manage code with Git.
-
   <p align="left">
   
   <!-- Badges -->
