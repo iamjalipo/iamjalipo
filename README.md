@@ -54,11 +54,26 @@ Total Prize: 2,500,000 $FGC Token. The rules are as follows:
 <br/>
 
   <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" wid[...]
+
+  I work across the full stack and in machine learning / analytics. My strongest skills are building production web applications with Django (backend), Redis + Celery (caching & background tasks), WebSockets (real‑time features), and frontend layout with HTML/CSS. I also use PyTorch for ML experiments and Power BI / Apache Superset for analytics and dashboards. I manage code with Git.
+
+  <p align="left">
+  
+  <!-- Badges -->
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white" />
+  <img alt="WebSockets" src="https://img.shields.io/badge/-WebSockets-4A154B" />
+  <img alt="Celery" src="https://img.shields.io/badge/-Celery-3A9B35?logo=celery&logoColor=white" />
+  <img alt="Power BI" src="https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi&logoColor=black" />
+  <img alt="Apache Superset" src="https://img.shields.io/badge/-Superset-2C2F33?logo=apache-superset&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
+  
+  </p>
 
 <br/>
-
-
 
 <details>
   <summary>:zap:Programming Languages</summary>
