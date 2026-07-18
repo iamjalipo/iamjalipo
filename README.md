@@ -17,8 +17,8 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Vibe Check: Architecting Production-Grade Evaluation Frameworks for LLMs](https://radicaldevs.tech/isi/beyond-the-vibe-check-architecting-production-grade-evaluation-frameworks-for-llms/)
-- [THE HOSPITALITY WARS: Airbnb vs. The Hotel Empire &lpar;World Cup 2026 Edition&rpar;](https://radicaldevs.tech/isi/the-hospitality-wars-airbnb-vs-the-hotel-empire-world-cup-2026-edition/)
+- [Beyond the Vibe Check: Architecting Production-Grade Evaluation Frameworks for LLMs](http://radicaldevs.tech/isi/beyond-the-vibe-check-architecting-production-grade-evaluation-frameworks-for-llms/)
+- [THE HOSPITALITY WARS: Airbnb vs. The Hotel Empire &lpar;World Cup 2026 Edition&rpar;](http://radicaldevs.tech/isi/the-hospitality-wars-airbnb-vs-the-hotel-empire-world-cup-2026-edition/)
 <!-- BLOG-POST-LIST:END -->
 
 
