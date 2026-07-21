@@ -17,6 +17,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Architecting Stateful Agentic Workflows: Why LangGraph Outperforms CrewAI in Production](http://radicaldevs.tech/isi/architecting-stateful-agentic-workflows-selection/)
 - [Why Building a Prototype with an LLM is Easy But Building a Production System is Incredibly Hard](http://radicaldevs.tech/isi/why-building-a-prototype-with-an-llm-is-easy/)
 - [Beyond the Vibe Check: Architecting Production-Grade Evaluation Frameworks for LLMs](http://radicaldevs.tech/isi/beyond-the-vibe-check-architecting-production-grade-evaluation-frameworks-for-llms/)
 - [THE HOSPITALITY WARS: Airbnb vs. The Hotel Empire &lpar;World Cup 2026 Edition&rpar;](http://radicaldevs.tech/isi/the-hospitality-wars-airbnb-vs-the-hotel-empire-world-cup-2026-edition/)
