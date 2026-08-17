@@ -17,11 +17,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Can AI Smell? Inside Osmo, the Startup Digitizing Scent](https://radicaldevs.tech/isi/osmo/)
-- [Defining the AI Engineer: The Architectural Boundary Between Data Science and Software Engineering](https://radicaldevs.tech/isi/defining-the-ai-engineer/)
-- [The Costly Mistake of Choosing a Massive LLM When a Fine-Tuned Small Language Model Would Have Sufficed](https://radicaldevs.tech/isi/the-costly-mistake-of-choosing-a-massive-llm/)
-- [Deep Dive into Context Windows: Why Massive Context Lengths Haven&#39;t Killed the Need for Retrieval-Augmented Generation &lpar;RAG&rpar;](https://radicaldevs.tech/isi/deep-dive-into-context-windows/)
-- [Architecting Stateful Agentic Workflows: Why LangGraph Outperforms CrewAI in Production](https://radicaldevs.tech/isi/architecting-stateful-agentic-workflows-selection/)
+- [THE HOSPITALITY WARS: Airbnb vs. The Hotel Empire &lpar;World Cup 2026 Edition&rpar;](https://example.com/isi/airbnb-vs-hotel/)
 <!-- BLOG-POST-LIST:END -->
 
 
