@@ -17,7 +17,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [THE HOSPITALITY WARS: Airbnb vs. The Hotel Empire &lpar;World Cup 2026 Edition&rpar;](https://example.com/isi/airbnb-vs-hotel/)
+- [THE HOSPITALITY WARS: Airbnb vs. The Hotel Empire &lpar;World Cup 2026 Edition&rpar;](https://radicaldevs.tech/isi/airbnb-vs-hotel/)
 <!-- BLOG-POST-LIST:END -->
 
 
