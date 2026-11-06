@@ -17,8 +17,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [كم تكلفة تطوير تطبيق جوال في السعودية والإمارات 2027؟ جدول الأسعار والمدة](https://radicaldevs.tech/isi/mobile-app-cost-saudi-uae/)
+- [هزینه طراحی سایت اختصاصی در ۱۴۰۵: جدول قیمت و زمان‌بندی](https://radicaldevs.tech/isi/website-design-cost-iran/)
 - [How Much Does a Custom Web App Cost in 2027? Price Ranges by Feature](https://radicaldevs.tech/isi/custom-web-app-cost/)
-- [THE HOSPITALITY WARS: Airbnb vs. The Hotel Empire &lpar;World Cup 2026 Edition&rpar;](https://radicaldevs.tech/isi/airbnb-vs-hotel/)
 <!-- BLOG-POST-LIST:END -->
 
 
