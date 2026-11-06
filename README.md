@@ -17,6 +17,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Much Does a Custom Web App Cost in 2027? Price Ranges by Feature](https://radicaldevs.tech/isi/custom-web-app-cost/)
 - [THE HOSPITALITY WARS: Airbnb vs. The Hotel Empire &lpar;World Cup 2026 Edition&rpar;](https://radicaldevs.tech/isi/airbnb-vs-hotel/)
 <!-- BLOG-POST-LIST:END -->
 
